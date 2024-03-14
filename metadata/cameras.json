@@ -3,231 +3,330 @@
     "dir": "01-COBERTURA-PP-OESTE",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1280,
+      720
+    ],
     "location": []
   },
   "02-COBERTURA-ENTRADA-PR": {
     "dir": "02-COBERTURA-ENTRADA-PR",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1280,
+      720
+    ],
     "location": []
   },
   "03-ENTRADA-PP-RAIO-X-TERREO": {
     "dir": "03-ENTRADA-PP-RAIO-X-TERREO",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1280,
+      960
+    ],
     "location": []
   },
   "04-PALACIO-ALA-LESTE-TERREO": {
     "dir": "04-PALACIO-ALA-LESTE-TERREO",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "05-PALACIO-ALA-OESTE": {
     "dir": "05-PALACIO-ALA-OESTE",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "06-PRIVATIVO-COMBOIO": {
     "dir": "06-PRIVATIVO-COMBOIO",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1280,
+      720
+    ],
     "location": []
   },
   "07-SALA-PG-3-PISO": {
     "dir": "07-SALA-PG-3-PISO",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      2560,
+      1440
+    ],
     "location": []
   },
   "08-SUBSOLO-ADM": {
     "dir": "08-SUBSOLO-ADM",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      2688,
+      1520
+    ],
     "location": []
   },
   "09-ELEVADOR-DE-SERVICO-TERREO": {
     "dir": "09-ELEVADOR-DE-SERVICO-TERREO",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "10-SALAO-NOBRE": {
     "dir": "10-SALAO-NOBRE",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1280,
+      720
+    ],
     "location": []
   },
   "11-SALAO-OESTE": {
     "dir": "11-SALAO-OESTE",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "12-2o-ANDAR-RAMPA": {
     "dir": "12-2o-ANDAR-RAMPA",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "13-2o-ANDAR-ELEVADOR-LESTE": {
     "dir": "13-2o-ANDAR-ELEVADOR-LESTE",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "14-2o-ANDAR-ELEVADOR-OESTE": {
     "dir": "14-2o-ANDAR-ELEVADOR-OESTE",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "15-MESANINO": {
     "dir": "15-MESANINO",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "16-CAMERA-VIP-PR": {
     "dir": "16-CAMERA-VIP-PR",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "17-3o-ANDAR-SALA-PR": {
     "dir": "17-3o-ANDAR-SALA-PR",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "18-3o-ANDAR-SALA-DE-AUDIENCIA": {
     "dir": "18-3o-ANDAR-SALA-DE-AUDIENCIA",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "19-3o-ANDAR-CORREDOR-ACESSO-LESTE": {
     "dir": "19-3o-ANDAR-CORREDOR-ACESSO-LESTE",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "20-ELEVADORES-ALA-OESTE": {
     "dir": "20-ELEVADORES-ALA-OESTE",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "21-2o-ANDAR-ESCADA-OESTE": {
     "dir": "21-2o-ANDAR-ESCADA-OESTE",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "22-3o-ANDAR-ESCADA-OESTE": {
     "dir": "22-3o-ANDAR-ESCADA-OESTE",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "23-ELEVADOR-MINISTROS": {
     "dir": "23-ELEVADOR-MINISTROS",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "24-4o-ANDAR-ELEVADOR-LESTE": {
     "dir": "24-4o-ANDAR-ELEVADOR-LESTE",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "25-4o-ANDAR-ESCADA-OESTE": {
     "dir": "25-4o-ANDAR-ESCADA-OESTE",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "26-4o-ANDAR-ELEVADOR-OESTE": {
     "dir": "26-4o-ANDAR-ELEVADOR-OESTE",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "27-4o-ANDAR-LADO-LESTE": {
     "dir": "27-4o-ANDAR-LADO-LESTE",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "28-4o-ANDAR-LADO-OESTE": {
     "dir": "28-4o-ANDAR-LADO-OESTE",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "29-ANEXO-I": {
     "dir": "29-ANEXO-I",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "30-ANEXO-I-ENTRADA-PRINCIPAL-CATRACAS": {
     "dir": "30-ANEXO-I-ENTRADA-PRINCIPAL-CATRACAS",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "31-ANEXO-I-CONCHA-ANEXO": {
     "dir": "31-ANEXO-I-CONCHA-ANEXO",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "32-ANEXO-III-REFEITORIO-CREDEN": {
     "dir": "32-ANEXO-III-REFEITORIO-CREDEN",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   },
   "33-ANEXO-III-REFEITORIO": {
     "dir": "33-ANEXO-III-REFEITORIO",
     "description": "",
     "type": "",
-    "resolution": [],
+    "resolution": [
+      1920,
+      1080
+    ],
     "location": []
   }
 }
