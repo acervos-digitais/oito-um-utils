@@ -2,18 +2,22 @@
 
 Coleção de notebooks/scripts para ajudar com o processamento de videos.
 
-`rename-vids`: re-nomeia os arquivos de videos para tirar espaços e caracteres especiais.
+`rename`: re-nomeia os arquivos de videos para tirar espaços e caracteres especiais.
 
-`resize-vids`: re-dimensiona os videos para 500px de largura usando  
+`resize`: re-dimensiona os videos para 500px de largura usando  
 `ffmpeg -i input.mp4 -vf scale=500:-2 -an output.mp4`
+
+`resolution`: extrai informação sobre resolução de todos os videos.
+
+`timestamp`: extrai informacão sobre duração de todos os videos.
 
 ---
 
 ### metadata
 
-#### `cameras.py`: informação sobre as cameras no formato:
+#### `cameras.json`: informação sobre as cameras no formato:
 
-```py
+```json
 "01-COBERTURA-PP-OESTE": {
   "dir": "01-COBERTURA-PP-OESTE",
   "description": "uma descrição do local",
