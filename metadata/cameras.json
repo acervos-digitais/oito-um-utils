@@ -7,7 +7,8 @@
       1280,
       720
     ],
-    "location": []
+    "latitude": -15.799059935606524,
+    "longitude": -47.86139756489708
   },
   "02-COBERTURA-ENTRADA-PR": {
     "dir": "02-COBERTURA-ENTRADA-PR",
@@ -17,7 +18,8 @@
       1280,
       720
     ],
-    "location": []
+    "latitude": -15.799144138221648,
+    "longitude": -47.86021475547347
   },
   "03-ENTRADA-PP-RAIO-X-TERREO": {
     "dir": "03-ENTRADA-PP-RAIO-X-TERREO",
@@ -27,7 +29,8 @@
       1280,
       960
     ],
-    "location": []
+    "latitude": -15.799149461525205,
+    "longitude": -47.86022121383736
   },
   "04-PALACIO-ALA-LESTE-TERREO": {
     "dir": "04-PALACIO-ALA-LESTE-TERREO",
@@ -37,7 +40,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "05-PALACIO-ALA-OESTE": {
     "dir": "05-PALACIO-ALA-OESTE",
@@ -47,7 +51,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "06-PRIVATIVO-COMBOIO": {
     "dir": "06-PRIVATIVO-COMBOIO",
@@ -57,7 +62,8 @@
       1280,
       720
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "07-SALA-PG-3-PISO": {
     "dir": "07-SALA-PG-3-PISO",
@@ -67,7 +73,8 @@
       2560,
       1440
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "08-SUBSOLO-ADM": {
     "dir": "08-SUBSOLO-ADM",
@@ -77,7 +84,8 @@
       2688,
       1520
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "09-ELEVADOR-DE-SERVICO-TERREO": {
     "dir": "09-ELEVADOR-DE-SERVICO-TERREO",
@@ -87,7 +95,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "10-SALAO-NOBRE": {
     "dir": "10-SALAO-NOBRE",
@@ -97,7 +106,8 @@
       1280,
       720
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "11-SALAO-OESTE": {
     "dir": "11-SALAO-OESTE",
@@ -107,7 +117,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "12-2o-ANDAR-RAMPA": {
     "dir": "12-2o-ANDAR-RAMPA",
@@ -117,7 +128,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "13-2o-ANDAR-ELEVADOR-LESTE": {
     "dir": "13-2o-ANDAR-ELEVADOR-LESTE",
@@ -127,7 +139,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "14-2o-ANDAR-ELEVADOR-OESTE": {
     "dir": "14-2o-ANDAR-ELEVADOR-OESTE",
@@ -137,7 +150,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "15-MESANINO": {
     "dir": "15-MESANINO",
@@ -147,7 +161,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "16-CAMERA-VIP-PR": {
     "dir": "16-CAMERA-VIP-PR",
@@ -157,7 +172,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "17-3o-ANDAR-SALA-PR": {
     "dir": "17-3o-ANDAR-SALA-PR",
@@ -167,7 +183,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "18-3o-ANDAR-SALA-DE-AUDIENCIA": {
     "dir": "18-3o-ANDAR-SALA-DE-AUDIENCIA",
@@ -177,7 +194,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "19-3o-ANDAR-CORREDOR-ACESSO-LESTE": {
     "dir": "19-3o-ANDAR-CORREDOR-ACESSO-LESTE",
@@ -187,7 +205,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "20-ELEVADORES-ALA-OESTE": {
     "dir": "20-ELEVADORES-ALA-OESTE",
@@ -197,7 +216,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "21-2o-ANDAR-ESCADA-OESTE": {
     "dir": "21-2o-ANDAR-ESCADA-OESTE",
@@ -207,7 +227,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "22-3o-ANDAR-ESCADA-OESTE": {
     "dir": "22-3o-ANDAR-ESCADA-OESTE",
@@ -217,7 +238,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "23-ELEVADOR-MINISTROS": {
     "dir": "23-ELEVADOR-MINISTROS",
@@ -227,7 +249,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "24-4o-ANDAR-ELEVADOR-LESTE": {
     "dir": "24-4o-ANDAR-ELEVADOR-LESTE",
@@ -237,7 +260,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "25-4o-ANDAR-ESCADA-OESTE": {
     "dir": "25-4o-ANDAR-ESCADA-OESTE",
@@ -247,7 +271,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "26-4o-ANDAR-ELEVADOR-OESTE": {
     "dir": "26-4o-ANDAR-ELEVADOR-OESTE",
@@ -257,7 +282,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "27-4o-ANDAR-LADO-LESTE": {
     "dir": "27-4o-ANDAR-LADO-LESTE",
@@ -267,7 +293,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "28-4o-ANDAR-LADO-OESTE": {
     "dir": "28-4o-ANDAR-LADO-OESTE",
@@ -277,7 +304,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "29-ANEXO-I": {
     "dir": "29-ANEXO-I",
@@ -287,7 +315,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.8,
+    "longitude": -47.86
   },
   "30-ANEXO-I-ENTRADA-PRINCIPAL-CATRACAS": {
     "dir": "30-ANEXO-I-ENTRADA-PRINCIPAL-CATRACAS",
@@ -297,7 +326,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.799644905957415,
+    "longitude": -47.8592818037773
   },
   "31-ANEXO-I-CONCHA-ANEXO": {
     "dir": "31-ANEXO-I-CONCHA-ANEXO",
@@ -307,7 +337,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.79974452146819,
+    "longitude": -47.85933754898157
   },
   "32-ANEXO-III-REFEITORIO-CREDEN": {
     "dir": "32-ANEXO-III-REFEITORIO-CREDEN",
@@ -317,7 +348,8 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.798948709125478,
+    "longitude": -47.85892450853482
   },
   "33-ANEXO-III-REFEITORIO": {
     "dir": "33-ANEXO-III-REFEITORIO",
@@ -327,6 +359,7 @@
       1920,
       1080
     ],
-    "location": []
+    "latitude": -15.798948709125478,
+    "longitude": -47.85892450853482
   }
 }
