@@ -47,11 +47,15 @@ onde:
   "time_start": 1673204400,
   "time_end": 1673206200,
   "continuous": true,
+  "seek": [
+    [1673204400, 0],
+    [1673206200, 1780],
+  ],
   "action_score": 0.7,
-  "action_frames": [
+  "action_seconds": [
     [13, 230],
     [320, 400],
-    [9127, 45],
+    [917, 45],
   ]
 }
 ```
@@ -63,5 +67,6 @@ onde:
 - `time_start`: horário no começo do video (em *unix epoch time*)
 - `time_end`: horário no final do video (em *unix epoch time*)
 - `continuous`: indica se video é sem cortes (`time_end - time_start == length_seconds`)
+- `seek`: lista de pares que mapeiam *unix epoch time* -> posição do vídeo (em *segundos*)
 - `action_score`: proporção de frames considerados *importantes*
-- `action_frames`: lista de pares que indicam frame inicial e duração de sequencias *importantes*
+- `action_frames`: lista de pares que indicam início e duração de sequencias *importantes* (em *segundos*)
