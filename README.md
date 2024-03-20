@@ -4,8 +4,9 @@ Coleção de notebooks/scripts para ajudar com o processamento de videos.
 
 `rename`: re-nomeia os arquivos de videos para tirar espaços e caracteres especiais.
 
-`resize`: re-dimensiona os videos para 500px de largura usando  
-`ffmpeg -i input.mp4 -vf scale=500:-2 -an output.mp4`
+`resize`: re-dimensiona os videos para 500px e 1152px de largura usando  
+`ffmpeg -i input.mp4 -vf scale=500:-2 -an output.mp4`  
+`ffmpeg -i input.mp4 -vf scale=1152:-2 -an output.mp4`
 
 `resolution`: extrai informação sobre resolução de todos os videos.
 
