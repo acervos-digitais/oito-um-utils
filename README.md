@@ -10,7 +10,9 @@ Coleção de notebooks/scripts para ajudar com o processamento de videos.
 
 `resolution`: extrai informação sobre resolução de todos os videos.
 
-`timestamp`: extrai informacão sobre duração de todos os videos.
+`timestamp`: extrai informacão sobre horário e duração de todos os videos.
+
+`timestamp_analysis`: métricas para avaliar extração de informacão sobre horário dos videos.
 
 ---
 
