@@ -1751,25 +1751,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_194141_08012023_194527-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_194141_08012023_194527-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":2411,
-    "length_seconds":80,
-    "time_start":1673217687,
-    "time_end":1673217767,
-    "continuous":true,
-    "seek":[
-      [
-        1673217687,
-        0
-      ],
-      [
-        1673217767,
-        80
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_194141_08012023_194527.mp4":{
     "name":"COBERTURA-OESTE_08012023_194141_08012023_194527.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -1922,33 +1903,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_200641_08012023_200656-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_200641_08012023_200656-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":302,
-    "length_seconds":10,
-    "time_start":1673219187,
-    "time_end":1673219195,
-    "continuous":false,
-    "seek":[
-      [
-        1673219187,
-        0
-      ],
-      [
-        1673219188,
-        2
-      ],
-      [
-        1673219189,
-        5
-      ],
-      [
-        1673219195,
-        9
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_200641_08012023_200656.mp4":{
     "name":"COBERTURA-OESTE_08012023_200641_08012023_200656.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -1965,61 +1919,6 @@
       [
         1673219216,
         30
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_200712_08012023_201008-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_200712_08012023_201008-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1901,
-    "length_seconds":63,
-    "time_start":1673219219,
-    "time_end":1673219280,
-    "continuous":false,
-    "seek":[
-      [
-        1673219219,
-        0
-      ],
-      [
-        1673219220,
-        3
-      ],
-      [
-        1673219225,
-        9
-      ],
-      [
-        1673219233,
-        14
-      ],
-      [
-        1673219234,
-        16
-      ],
-      [
-        1673219238,
-        19
-      ],
-      [
-        1673219240,
-        23
-      ],
-      [
-        1673219245,
-        26
-      ],
-      [
-        1673219252,
-        34
-      ],
-      [
-        1673219254,
-        35
-      ],
-      [
-        1673219280,
-        62
       ]
     ]
   },
@@ -2080,25 +1979,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_201316_08012023_201702-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_201316_08012023_201702-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":2402,
-    "length_seconds":80,
-    "time_start":1673219583,
-    "time_end":1673219662,
-    "continuous":true,
-    "seek":[
-      [
-        1673219583,
-        0
-      ],
-      [
-        1673219662,
-        80
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_201316_08012023_201702.mp4":{
     "name":"COBERTURA-OESTE_08012023_201316_08012023_201702.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -2115,25 +1995,6 @@
       [
         1673219822,
         240
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_201718_08012023_202004-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_201718_08012023_202004-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1802,
-    "length_seconds":60,
-    "time_start":1673219825,
-    "time_end":1673219884,
-    "continuous":true,
-    "seek":[
-      [
-        1673219825,
-        0
-      ],
-      [
-        1673219884,
-        60
       ]
     ]
   },
@@ -2156,25 +2017,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_202020_08012023_202307-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_202020_08012023_202307-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1802,
-    "length_seconds":60,
-    "time_start":1673220007,
-    "time_end":1673220066,
-    "continuous":true,
-    "seek":[
-      [
-        1673220007,
-        0
-      ],
-      [
-        1673220066,
-        60
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_202020_08012023_202307.mp4":{
     "name":"COBERTURA-OESTE_08012023_202020_08012023_202307.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -2191,109 +2033,6 @@
       [
         1673220186,
         180
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_202322_08012023_203000-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_202322_08012023_203000-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":4121,
-    "length_seconds":137,
-    "time_start":1673220189,
-    "time_end":1673220321,
-    "continuous":false,
-    "seek":[
-      [
-        1673220189,
-        0
-      ],
-      [
-        1673220190,
-        3
-      ],
-      [
-        1673220195,
-        9
-      ],
-      [
-        1673220203,
-        15
-      ],
-      [
-        1673220206,
-        17
-      ],
-      [
-        1673220218,
-        30
-      ],
-      [
-        1673220223,
-        34
-      ],
-      [
-        1673220230,
-        43
-      ],
-      [
-        1673220236,
-        47
-      ],
-      [
-        1673220241,
-        54
-      ],
-      [
-        1673220245,
-        57
-      ],
-      [
-        1673220251,
-        62
-      ],
-      [
-        1673220263,
-        75
-      ],
-      [
-        1673220266,
-        77
-      ],
-      [
-        1673220278,
-        90
-      ],
-      [
-        1673220281,
-        92
-      ],
-      [
-        1673220291,
-        103
-      ],
-      [
-        1673220294,
-        105
-      ],
-      [
-        1673220306,
-        118
-      ],
-      [
-        1673220309,
-        120
-      ],
-      [
-        1673220312,
-        125
-      ],
-      [
-        1673220317,
-        128
-      ],
-      [
-        1673220321,
-        135
       ]
     ]
   },
@@ -2436,33 +2175,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_203000_08012023_203042-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_203000_08012023_203042-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":431,
-    "length_seconds":14,
-    "time_start":1673220601,
-    "time_end":1673220605,
-    "continuous":false,
-    "seek":[
-      [
-        1673220601,
-        0
-      ],
-      [
-        1673220602,
-        2
-      ],
-      [
-        1673220604,
-        3
-      ],
-      [
-        1673220605,
-        9
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_203000_08012023_203042.mp4":{
     "name":"COBERTURA-OESTE_08012023_203000_08012023_203042.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -2502,25 +2214,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_203057_08012023_203213-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_203057_08012023_203213-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":902,
-    "length_seconds":30,
-    "time_start":1673220643,
-    "time_end":1673220672,
-    "continuous":true,
-    "seek":[
-      [
-        1673220643,
-        0
-      ],
-      [
-        1673220672,
-        30
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_203057_08012023_203213.mp4":{
     "name":"COBERTURA-OESTE_08012023_203057_08012023_203213.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -2537,25 +2230,6 @@
       [
         1673220732,
         90
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_203228_08012023_203435-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_203228_08012023_203435-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1401,
-    "length_seconds":46,
-    "time_start":1673220735,
-    "time_end":1673220781,
-    "continuous":true,
-    "seek":[
-      [
-        1673220735,
-        0
-      ],
-      [
-        1673220781,
-        46
       ]
     ]
   },
@@ -2578,25 +2252,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_203450_08012023_203458-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_203450_08012023_203458-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":212,
-    "length_seconds":7,
-    "time_start":1673220877,
-    "time_end":1673220883,
-    "continuous":true,
-    "seek":[
-      [
-        1673220877,
-        0
-      ],
-      [
-        1673220883,
-        7
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_203450_08012023_203458.mp4":{
     "name":"COBERTURA-OESTE_08012023_203450_08012023_203458.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -2613,25 +2268,6 @@
       [
         1673220897,
         21
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_203508_08012023_204421-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_203508_08012023_204421-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":5531,
-    "length_seconds":184,
-    "time_start":1673220908,
-    "time_end":1673221092,
-    "continuous":true,
-    "seek":[
-      [
-        1673220908,
-        0
-      ],
-      [
-        1673221092,
-        184
       ]
     ]
   },
@@ -2654,25 +2290,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_204436_08012023_205106-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_204436_08012023_205106-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":4031,
-    "length_seconds":134,
-    "time_start":1673221463,
-    "time_end":1673221596,
-    "continuous":true,
-    "seek":[
-      [
-        1673221463,
-        0
-      ],
-      [
-        1673221596,
-        134
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_204436_08012023_205106.mp4":{
     "name":"COBERTURA-OESTE_08012023_204436_08012023_205106.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -2689,89 +2306,6 @@
       [
         1673221865,
         403
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_205121_08012023_205629-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_205121_08012023_205629-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":3221,
-    "length_seconds":107,
-    "time_start":1673221867,
-    "time_end":1673221970,
-    "continuous":false,
-    "seek":[
-      [
-        1673221867,
-        0
-      ],
-      [
-        1673221869,
-        4
-      ],
-      [
-        1673221873,
-        9
-      ],
-      [
-        1673221881,
-        15
-      ],
-      [
-        1673221883,
-        16
-      ],
-      [
-        1673221886,
-        20
-      ],
-      [
-        1673221888,
-        21
-      ],
-      [
-        1673221891,
-        25
-      ],
-      [
-        1673221893,
-        26
-      ],
-      [
-        1673221919,
-        55
-      ],
-      [
-        1673221925,
-        58
-      ],
-      [
-        1673221928,
-        62
-      ],
-      [
-        1673221930,
-        63
-      ],
-      [
-        1673221933,
-        67
-      ],
-      [
-        1673221935,
-        68
-      ],
-      [
-        1673221948,
-        82
-      ],
-      [
-        1673221950,
-        83
-      ],
-      [
-        1673221970,
-        105
       ]
     ]
   },
@@ -2794,25 +2328,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_205644_08012023_210000-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_205644_08012023_210000-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":2102,
-    "length_seconds":70,
-    "time_start":1673222191,
-    "time_end":1673222260,
-    "continuous":true,
-    "seek":[
-      [
-        1673222191,
-        0
-      ],
-      [
-        1673222260,
-        70
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_205644_08012023_210000.mp4":{
     "name":"COBERTURA-OESTE_08012023_205644_08012023_210000.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -2829,25 +2344,6 @@
       [
         1673222400,
         210
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_210017_08012023_210233-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_210017_08012023_210233-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1502,
-    "length_seconds":50,
-    "time_start":1673222403,
-    "time_end":1673222452,
-    "continuous":true,
-    "seek":[
-      [
-        1673222403,
-        0
-      ],
-      [
-        1673222452,
-        50
       ]
     ]
   },
@@ -2870,25 +2366,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_210248_08012023_210737-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_210248_08012023_210737-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":3021,
-    "length_seconds":100,
-    "time_start":1673222555,
-    "time_end":1673222655,
-    "continuous":true,
-    "seek":[
-      [
-        1673222555,
-        0
-      ],
-      [
-        1673222655,
-        100
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_210248_08012023_210737.mp4":{
     "name":"COBERTURA-OESTE_08012023_210248_08012023_210737.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -2905,25 +2382,6 @@
       [
         1673222856,
         302
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_210752_08012023_211059-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_210752_08012023_211059-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":2001,
-    "length_seconds":66,
-    "time_start":1673222859,
-    "time_end":1673222925,
-    "continuous":true,
-    "seek":[
-      [
-        1673222859,
-        0
-      ],
-      [
-        1673222925,
-        66
       ]
     ]
   },
@@ -2946,25 +2404,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_211114_08012023_212045-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_211114_08012023_212045-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":5841,
-    "length_seconds":194,
-    "time_start":1673223061,
-    "time_end":1673223255,
-    "continuous":true,
-    "seek":[
-      [
-        1673223061,
-        0
-      ],
-      [
-        1673223255,
-        194
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_211114_08012023_212045.mp4":{
     "name":"COBERTURA-OESTE_08012023_211114_08012023_212045.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -2981,25 +2420,6 @@
       [
         1673223644,
         584
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_212100_08012023_212851-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_212100_08012023_212851-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":4841,
-    "length_seconds":161,
-    "time_start":1673223647,
-    "time_end":1673223808,
-    "continuous":true,
-    "seek":[
-      [
-        1673223647,
-        0
-      ],
-      [
-        1673223808,
-        161
       ]
     ]
   },
@@ -3022,25 +2442,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_212906_08012023_213000-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_212906_08012023_213000-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":681,
-    "length_seconds":22,
-    "time_start":1673224133,
-    "time_end":1673224154,
-    "continuous":true,
-    "seek":[
-      [
-        1673224133,
-        0
-      ],
-      [
-        1673224154,
-        22
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_212906_08012023_213000.mp4":{
     "name":"COBERTURA-OESTE_08012023_212906_08012023_213000.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -3057,25 +2458,6 @@
       [
         1673224200,
         68
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_213000_08012023_213344-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_213000_08012023_213344-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":2241,
-    "length_seconds":74,
-    "time_start":1673224199,
-    "time_end":1673224273,
-    "continuous":true,
-    "seek":[
-      [
-        1673224199,
-        0
-      ],
-      [
-        1673224273,
-        74
       ]
     ]
   },
@@ -3098,25 +2480,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_213359_08012023_214049-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_213359_08012023_214049-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":4251,
-    "length_seconds":141,
-    "time_start":1673224424,
-    "time_end":1673224565,
-    "continuous":true,
-    "seek":[
-      [
-        1673224424,
-        0
-      ],
-      [
-        1673224565,
-        141
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_213359_08012023_214049.mp4":{
     "name":"COBERTURA-OESTE_08012023_213359_08012023_214049.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -3133,25 +2496,6 @@
       [
         1673224848,
         425
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_214104_08012023_214725-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_214104_08012023_214725-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":3951,
-    "length_seconds":131,
-    "time_start":1673224851,
-    "time_end":1673224982,
-    "continuous":true,
-    "seek":[
-      [
-        1673224851,
-        0
-      ],
-      [
-        1673224982,
-        131
       ]
     ]
   },
@@ -3174,25 +2518,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_214754_08012023_215158-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_214754_08012023_215158-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":2451,
-    "length_seconds":81,
-    "time_start":1673225274,
-    "time_end":1673225355,
-    "continuous":true,
-    "seek":[
-      [
-        1673225274,
-        0
-      ],
-      [
-        1673225355,
-        81
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_214754_08012023_215158.mp4":{
     "name":"COBERTURA-OESTE_08012023_214754_08012023_215158.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -3209,25 +2534,6 @@
       [
         1673225518,
         245
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_215225_08012023_215410-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_215225_08012023_215410-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1311,
-    "length_seconds":43,
-    "time_start":1673225519,
-    "time_end":1673225562,
-    "continuous":true,
-    "seek":[
-      [
-        1673225519,
-        0
-      ],
-      [
-        1673225562,
-        43
       ]
     ]
   },
@@ -3250,25 +2556,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_215423_08012023_220000-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_215423_08012023_220000-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":3491,
-    "length_seconds":116,
-    "time_start":1673225651,
-    "time_end":1673225767,
-    "continuous":true,
-    "seek":[
-      [
-        1673225651,
-        0
-      ],
-      [
-        1673225767,
-        116
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_215423_08012023_220000.mp4":{
     "name":"COBERTURA-OESTE_08012023_215423_08012023_220000.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -3285,25 +2572,6 @@
       [
         1673225999,
         349
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_220000_08012023_220045-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_220000_08012023_220045-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":471,
-    "length_seconds":15,
-    "time_start":1673225998,
-    "time_end":1673226013,
-    "continuous":true,
-    "seek":[
-      [
-        1673225998,
-        0
-      ],
-      [
-        1673226013,
-        15
       ]
     ]
   },
@@ -3326,25 +2594,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_220113_08012023_220205-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_220113_08012023_220205-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":791,
-    "length_seconds":26,
-    "time_start":1673226047,
-    "time_end":1673226073,
-    "continuous":true,
-    "seek":[
-      [
-        1673226047,
-        0
-      ],
-      [
-        1673226073,
-        26
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_220113_08012023_220205.mp4":{
     "name":"COBERTURA-OESTE_08012023_220113_08012023_220205.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -3361,25 +2610,6 @@
       [
         1673226125,
         79
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_220259_08012023_220455-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_220259_08012023_220455-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1682,
-    "length_seconds":56,
-    "time_start":1673226127,
-    "time_end":1673226182,
-    "continuous":true,
-    "seek":[
-      [
-        1673226127,
-        0
-      ],
-      [
-        1673226182,
-        56
       ]
     ]
   },
@@ -3510,25 +2740,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_220514_08012023_220829-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_220514_08012023_220829-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1952,
-    "length_seconds":65,
-    "time_start":1673226314,
-    "time_end":1673226379,
-    "continuous":true,
-    "seek":[
-      [
-        1673226314,
-        0
-      ],
-      [
-        1673226379,
-        65
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_220514_08012023_220829.mp4":{
     "name":"COBERTURA-OESTE_08012023_220514_08012023_220829.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -3545,97 +2756,6 @@
       [
         1673226509,
         195
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_220856_08012023_221312-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_220856_08012023_221312-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":2822,
-    "length_seconds":94,
-    "time_start":1673226511,
-    "time_end":1673226603,
-    "continuous":false,
-    "seek":[
-      [
-        1673226511,
-        0
-      ],
-      [
-        1673226512,
-        3
-      ],
-      [
-        1673226517,
-        15
-      ],
-      [
-        1673226537,
-        26
-      ],
-      [
-        1673226554,
-        44
-      ],
-      [
-        1673226556,
-        45
-      ],
-      [
-        1673226557,
-        47
-      ],
-      [
-        1673226559,
-        48
-      ],
-      [
-        1673226562,
-        53
-      ],
-      [
-        1673226568,
-        57
-      ],
-      [
-        1673226573,
-        63
-      ],
-      [
-        1673226577,
-        66
-      ],
-      [
-        1673226579,
-        69
-      ],
-      [
-        1673226581,
-        70
-      ],
-      [
-        1673226583,
-        73
-      ],
-      [
-        1673226587,
-        76
-      ],
-      [
-        1673226593,
-        84
-      ],
-      [
-        1673226599,
-        88
-      ],
-      [
-        1673226601,
-        91
-      ],
-      [
-        1673226603,
-        93
       ]
     ]
   },
@@ -3658,25 +2778,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_221328_08012023_221443-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_221328_08012023_221443-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":911,
-    "length_seconds":30,
-    "time_start":1673226793,
-    "time_end":1673226822,
-    "continuous":true,
-    "seek":[
-      [
-        1673226793,
-        0
-      ],
-      [
-        1673226822,
-        30
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_221328_08012023_221443.mp4":{
     "name":"COBERTURA-OESTE_08012023_221328_08012023_221443.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -3693,29 +2794,6 @@
       [
         1673226883,
         91
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_221459_08012023_221524-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_221459_08012023_221524-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":392,
-    "length_seconds":13,
-    "time_start":1673226885,
-    "time_end":1673226891,
-    "continuous":false,
-    "seek":[
-      [
-        1673226885,
-        0
-      ],
-      [
-        1673226886,
-        3
-      ],
-      [
-        1673226891,
-        9
       ]
     ]
   },
@@ -3738,25 +2816,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_221556_08012023_221959-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_221556_08012023_221959-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":2432,
-    "length_seconds":81,
-    "time_start":1673226956,
-    "time_end":1673227036,
-    "continuous":true,
-    "seek":[
-      [
-        1673226956,
-        0
-      ],
-      [
-        1673227036,
-        81
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_221556_08012023_221959.mp4":{
     "name":"COBERTURA-OESTE_08012023_221556_08012023_221959.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -3773,25 +2832,6 @@
       [
         1673227198,
         243
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_222015_08012023_222106-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_222015_08012023_222106-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":662,
-    "length_seconds":22,
-    "time_start":1673227201,
-    "time_end":1673227222,
-    "continuous":true,
-    "seek":[
-      [
-        1673227201,
-        0
-      ],
-      [
-        1673227222,
-        22
       ]
     ]
   },
@@ -3814,25 +2854,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_222121_08012023_222307-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_222121_08012023_222307-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1202,
-    "length_seconds":40,
-    "time_start":1673227268,
-    "time_end":1673227307,
-    "continuous":true,
-    "seek":[
-      [
-        1673227268,
-        0
-      ],
-      [
-        1673227307,
-        40
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_222121_08012023_222307.mp4":{
     "name":"COBERTURA-OESTE_08012023_222121_08012023_222307.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -3849,25 +2870,6 @@
       [
         1673227387,
         120
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_222323_08012023_222458-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_222323_08012023_222458-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1101,
-    "length_seconds":36,
-    "time_start":1673227388,
-    "time_end":1673227424,
-    "continuous":true,
-    "seek":[
-      [
-        1673227388,
-        0
-      ],
-      [
-        1673227424,
-        36
       ]
     ]
   },
@@ -3890,69 +2892,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_222509_08012023_222825-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_222509_08012023_222825-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1960,
-    "length_seconds":65,
-    "time_start":1673227509,
-    "time_end":1673227572,
-    "continuous":false,
-    "seek":[
-      [
-        1673227509,
-        0
-      ],
-      [
-        1673227510,
-        2
-      ],
-      [
-        1673227519,
-        10
-      ],
-      [
-        1673227531,
-        24
-      ],
-      [
-        1673227536,
-        27
-      ],
-      [
-        1673227542,
-        34
-      ],
-      [
-        1673227546,
-        37
-      ],
-      [
-        1673227552,
-        44
-      ],
-      [
-        1673227556,
-        47
-      ],
-      [
-        1673227559,
-        51
-      ],
-      [
-        1673227562,
-        56
-      ],
-      [
-        1673227568,
-        59
-      ],
-      [
-        1673227572,
-        64
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_222509_08012023_222825.mp4":{
     "name":"COBERTURA-OESTE_08012023_222509_08012023_222825.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -3969,25 +2908,6 @@
       [
         1673227704,
         196
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_222839_08012023_222901-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_222839_08012023_222901-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":231,
-    "length_seconds":7,
-    "time_start":1673227719,
-    "time_end":1673227724,
-    "continuous":false,
-    "seek":[
-      [
-        1673227719,
-        0
-      ],
-      [
-        1673227724,
-        6
       ]
     ]
   },
@@ -4010,29 +2930,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_222928_08012023_223000-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_222928_08012023_223000-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":601,
-    "length_seconds":20,
-    "time_start":1673227742,
-    "time_end":1673227744,
-    "continuous":false,
-    "seek":[
-      [
-        1673227742,
-        0
-      ],
-      [
-        1673227743,
-        2
-      ],
-      [
-        1673227744,
-        11
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_222928_08012023_223000.mp4":{
     "name":"COBERTURA-OESTE_08012023_222928_08012023_223000.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -4049,61 +2946,6 @@
       [
         1673227801,
         60
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_223000_08012023_223223-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_223000_08012023_223223-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1431,
-    "length_seconds":47,
-    "time_start":1673227800,
-    "time_end":1673227845,
-    "continuous":false,
-    "seek":[
-      [
-        1673227800,
-        0
-      ],
-      [
-        1673227801,
-        2
-      ],
-      [
-        1673227808,
-        8
-      ],
-      [
-        1673227812,
-        13
-      ],
-      [
-        1673227815,
-        17
-      ],
-      [
-        1673227820,
-        20
-      ],
-      [
-        1673227825,
-        27
-      ],
-      [
-        1673227830,
-        30
-      ],
-      [
-        1673227835,
-        37
-      ],
-      [
-        1673227840,
-        40
-      ],
-      [
-        1673227845,
-        46
       ]
     ]
   },
@@ -4126,25 +2968,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_223230_08012023_223404-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_223230_08012023_223404-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":951,
-    "length_seconds":31,
-    "time_start":1673227950,
-    "time_end":1673227981,
-    "continuous":true,
-    "seek":[
-      [
-        1673227950,
-        0
-      ],
-      [
-        1673227981,
-        31
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_223230_08012023_223404.mp4":{
     "name":"COBERTURA-OESTE_08012023_223230_08012023_223404.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -4161,25 +2984,6 @@
       [
         1673228044,
         95
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_223411_08012023_223557-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_223411_08012023_223557-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1112,
-    "length_seconds":37,
-    "time_start":1673228046,
-    "time_end":1673228082,
-    "continuous":true,
-    "seek":[
-      [
-        1673228046,
-        0
-      ],
-      [
-        1673228082,
-        37
       ]
     ]
   },
@@ -4202,25 +3006,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_223613_08012023_223757-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_223613_08012023_223757-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1052,
-    "length_seconds":35,
-    "time_start":1673228172,
-    "time_end":1673228206,
-    "continuous":true,
-    "seek":[
-      [
-        1673228172,
-        0
-      ],
-      [
-        1673228206,
-        35
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_223613_08012023_223757.mp4":{
     "name":"COBERTURA-OESTE_08012023_223613_08012023_223757.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -4237,25 +3022,6 @@
       [
         1673228276,
         105
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_223811_08012023_224059-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_223811_08012023_224059-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1811,
-    "length_seconds":60,
-    "time_start":1673228277,
-    "time_end":1673228337,
-    "continuous":true,
-    "seek":[
-      [
-        1673228277,
-        0
-      ],
-      [
-        1673228337,
-        60
       ]
     ]
   },
@@ -4278,25 +3044,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_224126_08012023_224625-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_224126_08012023_224625-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":3251,
-    "length_seconds":108,
-    "time_start":1673228460,
-    "time_end":1673228568,
-    "continuous":true,
-    "seek":[
-      [
-        1673228460,
-        0
-      ],
-      [
-        1673228568,
-        108
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_224126_08012023_224625.mp4":{
     "name":"COBERTURA-OESTE_08012023_224126_08012023_224625.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -4313,25 +3060,6 @@
       [
         1673228784,
         325
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_224631_08012023_224834-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_224631_08012023_224834-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1241,
-    "length_seconds":41,
-    "time_start":1673228791,
-    "time_end":1673228831,
-    "continuous":true,
-    "seek":[
-      [
-        1673228791,
-        0
-      ],
-      [
-        1673228831,
-        41
       ]
     ]
   },
@@ -4354,25 +3082,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_224902_08012023_225225-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_224902_08012023_225225-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":2291,
-    "length_seconds":76,
-    "time_start":1673228916,
-    "time_end":1673228992,
-    "continuous":true,
-    "seek":[
-      [
-        1673228916,
-        0
-      ],
-      [
-        1673228992,
-        76
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_224902_08012023_225225.mp4":{
     "name":"COBERTURA-OESTE_08012023_224902_08012023_225225.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -4389,25 +3098,6 @@
       [
         1673229144,
         229
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_225236_08012023_225307-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_225236_08012023_225307-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":321,
-    "length_seconds":10,
-    "time_start":1673229156,
-    "time_end":1673229166,
-    "continuous":true,
-    "seek":[
-      [
-        1673229156,
-        0
-      ],
-      [
-        1673229166,
-        10
       ]
     ]
   },
@@ -4430,25 +3120,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_225334_08012023_225750-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_225334_08012023_225750-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":2831,
-    "length_seconds":94,
-    "time_start":1673229188,
-    "time_end":1673229281,
-    "continuous":true,
-    "seek":[
-      [
-        1673229188,
-        0
-      ],
-      [
-        1673229281,
-        94
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_225334_08012023_225750.mp4":{
     "name":"COBERTURA-OESTE_08012023_225334_08012023_225750.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -4465,25 +3136,6 @@
       [
         1673229470,
         283
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_225817_08012023_225931-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_225817_08012023_225931-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1001,
-    "length_seconds":33,
-    "time_start":1673229472,
-    "time_end":1673229505,
-    "continuous":true,
-    "seek":[
-      [
-        1673229472,
-        0
-      ],
-      [
-        1673229505,
-        33
       ]
     ]
   },
@@ -4506,41 +3158,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_230000_08012023_230159-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_230000_08012023_230159-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1172,
-    "length_seconds":39,
-    "time_start":1673229600,
-    "time_end":1673229636,
-    "continuous":false,
-    "seek":[
-      [
-        1673229600,
-        0
-      ],
-      [
-        1673229601,
-        2
-      ],
-      [
-        1673229625,
-        27
-      ],
-      [
-        1673229629,
-        29
-      ],
-      [
-        1673229630,
-        31
-      ],
-      [
-        1673229636,
-        38
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_230000_08012023_230159.mp4":{
     "name":"COBERTURA-OESTE_08012023_230000_08012023_230159.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -4557,25 +3174,6 @@
       [
         1673229716,
         117
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_230209_08012023_230323-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_230209_08012023_230323-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":752,
-    "length_seconds":25,
-    "time_start":1673229728,
-    "time_end":1673229752,
-    "continuous":true,
-    "seek":[
-      [
-        1673229728,
-        0
-      ],
-      [
-        1673229752,
-        25
       ]
     ]
   },
@@ -4598,25 +3196,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_230351_08012023_230817-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_230351_08012023_230817-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":2951,
-    "length_seconds":98,
-    "time_start":1673229803,
-    "time_end":1673229901,
-    "continuous":true,
-    "seek":[
-      [
-        1673229803,
-        0
-      ],
-      [
-        1673229901,
-        98
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_230351_08012023_230817.mp4":{
     "name":"COBERTURA-OESTE_08012023_230351_08012023_230817.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -4633,25 +3212,6 @@
       [
         1673230097,
         295
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_230845_08012023_231310-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_230845_08012023_231310-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":2931,
-    "length_seconds":97,
-    "time_start":1673230098,
-    "time_end":1673230195,
-    "continuous":true,
-    "seek":[
-      [
-        1673230098,
-        0
-      ],
-      [
-        1673230195,
-        97
       ]
     ]
   },
@@ -4674,25 +3234,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_231338_08012023_231743-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_231338_08012023_231743-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":2711,
-    "length_seconds":90,
-    "time_start":1673230393,
-    "time_end":1673230482,
-    "continuous":true,
-    "seek":[
-      [
-        1673230393,
-        0
-      ],
-      [
-        1673230482,
-        90
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_231338_08012023_231743.mp4":{
     "name":"COBERTURA-OESTE_08012023_231338_08012023_231743.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -4709,25 +3250,6 @@
       [
         1673230663,
         271
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_231811_08012023_231914-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_231811_08012023_231914-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":902,
-    "length_seconds":30,
-    "time_start":1673230665,
-    "time_end":1673230694,
-    "continuous":true,
-    "seek":[
-      [
-        1673230665,
-        0
-      ],
-      [
-        1673230694,
-        30
       ]
     ]
   },
@@ -4750,37 +3272,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_231942_08012023_232156-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_231942_08012023_232156-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1611,
-    "length_seconds":53,
-    "time_start":1673230757,
-    "time_end":1673230808,
-    "continuous":false,
-    "seek":[
-      [
-        1673230757,
-        0
-      ],
-      [
-        1673230758,
-        3
-      ],
-      [
-        1673230763,
-        15
-      ],
-      [
-        1673230783,
-        26
-      ],
-      [
-        1673230808,
-        52
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_231942_08012023_232156.mp4":{
     "name":"COBERTURA-OESTE_08012023_231942_08012023_232156.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -4797,25 +3288,6 @@
       [
         1673230917,
         161
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_232244_08012023_232528-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_232244_08012023_232528-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1641,
-    "length_seconds":54,
-    "time_start":1673230965,
-    "time_end":1673231019,
-    "continuous":true,
-    "seek":[
-      [
-        1673230965,
-        0
-      ],
-      [
-        1673231019,
-        54
       ]
     ]
   },
@@ -4838,25 +3310,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_232542_08012023_232857-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_232542_08012023_232857-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":2081,
-    "length_seconds":69,
-    "time_start":1673231130,
-    "time_end":1673231198,
-    "continuous":true,
-    "seek":[
-      [
-        1673231130,
-        0
-      ],
-      [
-        1673231198,
-        69
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_232542_08012023_232857.mp4":{
     "name":"COBERTURA-OESTE_08012023_232542_08012023_232857.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -4873,25 +3326,6 @@
       [
         1673231337,
         208
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_232905_08012023_233000-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_232905_08012023_233000-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":572,
-    "length_seconds":19,
-    "time_start":1673231344,
-    "time_end":1673231362,
-    "continuous":true,
-    "seek":[
-      [
-        1673231344,
-        0
-      ],
-      [
-        1673231362,
-        19
       ]
     ]
   },
@@ -4914,25 +3348,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_233000_08012023_233155-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_233000_08012023_233155-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1161,
-    "length_seconds":38,
-    "time_start":1673231399,
-    "time_end":1673231437,
-    "continuous":true,
-    "seek":[
-      [
-        1673231399,
-        0
-      ],
-      [
-        1673231437,
-        38
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_233000_08012023_233155.mp4":{
     "name":"COBERTURA-OESTE_08012023_233000_08012023_233155.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -4949,25 +3364,6 @@
       [
         1673231514,
         116
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_233159_08012023_233755-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_233159_08012023_233755-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":3561,
-    "length_seconds":118,
-    "time_start":1673231520,
-    "time_end":1673231637,
-    "continuous":true,
-    "seek":[
-      [
-        1673231520,
-        0
-      ],
-      [
-        1673231637,
-        118
       ]
     ]
   },
@@ -4990,25 +3386,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_233800_08012023_233847-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_233800_08012023_233847-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":482,
-    "length_seconds":16,
-    "time_start":1673231881,
-    "time_end":1673231896,
-    "continuous":true,
-    "seek":[
-      [
-        1673231881,
-        0
-      ],
-      [
-        1673231896,
-        16
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_233800_08012023_233847.mp4":{
     "name":"COBERTURA-OESTE_08012023_233800_08012023_233847.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -5025,25 +3402,6 @@
       [
         1673231928,
         48
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_233914_08012023_234028-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_233914_08012023_234028-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":992,
-    "length_seconds":33,
-    "time_start":1673231929,
-    "time_end":1673231961,
-    "continuous":true,
-    "seek":[
-      [
-        1673231929,
-        0
-      ],
-      [
-        1673231961,
-        33
       ]
     ]
   },
@@ -5066,25 +3424,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_234055_08012023_234156-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_234055_08012023_234156-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":821,
-    "length_seconds":27,
-    "time_start":1673232029,
-    "time_end":1673232056,
-    "continuous":true,
-    "seek":[
-      [
-        1673232029,
-        0
-      ],
-      [
-        1673232056,
-        27
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_234055_08012023_234156.mp4":{
     "name":"COBERTURA-OESTE_08012023_234055_08012023_234156.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -5101,25 +3440,6 @@
       [
         1673232110,
         82
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_234209_08012023_234355-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_234209_08012023_234355-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1071,
-    "length_seconds":35,
-    "time_start":1673232129,
-    "time_end":1673232164,
-    "continuous":true,
-    "seek":[
-      [
-        1673232129,
-        0
-      ],
-      [
-        1673232164,
-        35
       ]
     ]
   },
@@ -5246,25 +3566,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_234400_08012023_234622-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_234400_08012023_234622-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1431,
-    "length_seconds":47,
-    "time_start":1673232240,
-    "time_end":1673232287,
-    "continuous":true,
-    "seek":[
-      [
-        1673232240,
-        0
-      ],
-      [
-        1673232287,
-        47
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_234400_08012023_234622.mp4":{
     "name":"COBERTURA-OESTE_08012023_234400_08012023_234622.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -5281,25 +3582,6 @@
       [
         1673232382,
         143
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_234649_08012023_235055-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_234649_08012023_235055-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":2711,
-    "length_seconds":90,
-    "time_start":1673232384,
-    "time_end":1673232474,
-    "continuous":true,
-    "seek":[
-      [
-        1673232384,
-        0
-      ],
-      [
-        1673232474,
-        90
       ]
     ]
   },
@@ -5322,25 +3604,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_235111_08012023_235255-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_235111_08012023_235255-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1031,
-    "length_seconds":34,
-    "time_start":1673232672,
-    "time_end":1673232706,
-    "continuous":true,
-    "seek":[
-      [
-        1673232672,
-        0
-      ],
-      [
-        1673232706,
-        34
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_235111_08012023_235255.mp4":{
     "name":"COBERTURA-OESTE_08012023_235111_08012023_235255.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -5357,41 +3620,6 @@
       [
         1673232774,
         103
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_235307_08012023_235455-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_235307_08012023_235455-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1071,
-    "length_seconds":35,
-    "time_start":1673232787,
-    "time_end":1673232819,
-    "continuous":false,
-    "seek":[
-      [
-        1673232787,
-        0
-      ],
-      [
-        1673232788,
-        2
-      ],
-      [
-        1673232797,
-        10
-      ],
-      [
-        1673232808,
-        23
-      ],
-      [
-        1673232813,
-        26
-      ],
-      [
-        1673232819,
-        33
       ]
     ]
   },
@@ -5414,65 +3642,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_235515_08012023_235719-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_235515_08012023_235719-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1262,
-    "length_seconds":42,
-    "time_start":1673232914,
-    "time_end":1673232951,
-    "continuous":false,
-    "seek":[
-      [
-        1673232914,
-        0
-      ],
-      [
-        1673232915,
-        2
-      ],
-      [
-        1673232921,
-        9
-      ],
-      [
-        1673232925,
-        11
-      ],
-      [
-        1673232926,
-        13
-      ],
-      [
-        1673232931,
-        19
-      ],
-      [
-        1673232936,
-        22
-      ],
-      [
-        1673232937,
-        24
-      ],
-      [
-        1673232941,
-        29
-      ],
-      [
-        1673232946,
-        32
-      ],
-      [
-        1673232947,
-        34
-      ],
-      [
-        1673232951,
-        40
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_235515_08012023_235719.mp4":{
     "name":"COBERTURA-OESTE_08012023_235515_08012023_235719.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -5492,33 +3661,6 @@
       ]
     ]
   },
-  "COBERTURA-OESTE_08012023_235732_08012023_235759-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_235732_08012023_235759-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":392,
-    "length_seconds":13,
-    "time_start":1673233040,
-    "time_end":1673233046,
-    "continuous":false,
-    "seek":[
-      [
-        1673233040,
-        0
-      ],
-      [
-        1673233041,
-        2
-      ],
-      [
-        1673233042,
-        4
-      ],
-      [
-        1673233046,
-        9
-      ]
-    ]
-  },
   "COBERTURA-OESTE_08012023_235732_08012023_235759.mp4":{
     "name":"COBERTURA-OESTE_08012023_235732_08012023_235759.mp4",
     "camera":"01-COBERTURA-PP-OESTE",
@@ -5535,25 +3677,6 @@
       [
         1673233078,
         39
-      ]
-    ]
-  },
-  "COBERTURA-OESTE_08012023_235826_08012023_235959-2.mp4":{
-    "name":"COBERTURA-OESTE_08012023_235826_08012023_235959-2.mp4",
-    "camera":"01-COBERTURA-PP-OESTE",
-    "length_frames":1221,
-    "length_seconds":40,
-    "time_start":1673233079,
-    "time_end":1673233119,
-    "continuous":true,
-    "seek":[
-      [
-        1673233079,
-        0
-      ],
-      [
-        1673233119,
-        40
       ]
     ]
   },
@@ -6523,25 +4646,6 @@
       [
         1673154001,
         1803
-      ]
-    ]
-  },
-  "ENTRADA_PALACIO_08012023_020000_08012023_023000-1.mp4":{
-    "name":"ENTRADA_PALACIO_08012023_020000_08012023_023000-1.mp4",
-    "camera":"03-ENTRADA-PP-RAIO-X-TERREO",
-    "length_frames":43201,
-    "length_seconds":1800,
-    "time_start":1673154000,
-    "time_end":1673155799,
-    "continuous":true,
-    "seek":[
-      [
-        1673154000,
-        0
-      ],
-      [
-        1673155799,
-        1800
       ]
     ]
   },
@@ -12869,277 +10973,6 @@
       [
         1673189999,
         5401
-      ]
-    ]
-  },
-  "2o-ANDAR-ELEVADOR-OESTE_08012023_120051_08012023_155842_1-1.mp4":{
-    "name":"2o-ANDAR-ELEVADOR-OESTE_08012023_120051_08012023_155842_1-1.mp4",
-    "camera":"14-2o-ANDAR-ELEVADOR-OESTE",
-    "length_frames":332001,
-    "length_seconds":13280,
-    "time_start":1673190050,
-    "time_end":1673203316,
-    "continuous":false,
-    "seek":[
-      [
-        1673190050,
-        0
-      ],
-      [
-        1673190258,
-        207
-      ],
-      [
-        1673190465,
-        415
-      ],
-      [
-        1673190673,
-        622
-      ],
-      [
-        1673190880,
-        830
-      ],
-      [
-        1673191088,
-        1037
-      ],
-      [
-        1673191295,
-        1245
-      ],
-      [
-        1673191503,
-        1452
-      ],
-      [
-        1673191710,
-        1660
-      ],
-      [
-        1673191916,
-        1867
-      ],
-      [
-        1673192123,
-        2075
-      ],
-      [
-        1673192331,
-        2282
-      ],
-      [
-        1673192538,
-        2490
-      ],
-      [
-        1673192746,
-        2697
-      ],
-      [
-        1673192953,
-        2905
-      ],
-      [
-        1673193161,
-        3112
-      ],
-      [
-        1673193368,
-        3320
-      ],
-      [
-        1673193576,
-        3527
-      ],
-      [
-        1673193781,
-        3735
-      ],
-      [
-        1673193989,
-        3942
-      ],
-      [
-        1673194196,
-        4150
-      ],
-      [
-        1673194404,
-        4357
-      ],
-      [
-        1673194611,
-        4565
-      ],
-      [
-        1673194819,
-        4772
-      ],
-      [
-        1673195026,
-        4980
-      ],
-      [
-        1673195234,
-        5187
-      ],
-      [
-        1673195439,
-        5395
-      ],
-      [
-        1673195647,
-        5602
-      ],
-      [
-        1673195854,
-        5810
-      ],
-      [
-        1673196062,
-        6017
-      ],
-      [
-        1673196269,
-        6225
-      ],
-      [
-        1673196477,
-        6432
-      ],
-      [
-        1673196684,
-        6640
-      ],
-      [
-        1673196892,
-        6847
-      ],
-      [
-        1673197099,
-        7055
-      ],
-      [
-        1673197305,
-        7262
-      ],
-      [
-        1673197512,
-        7470
-      ],
-      [
-        1673197720,
-        7677
-      ],
-      [
-        1673197927,
-        7885
-      ],
-      [
-        1673198135,
-        8092
-      ],
-      [
-        1673198342,
-        8300
-      ],
-      [
-        1673198550,
-        8507
-      ],
-      [
-        1673198757,
-        8715
-      ],
-      [
-        1673198965,
-        8922
-      ],
-      [
-        1673199170,
-        9130
-      ],
-      [
-        1673199378,
-        9337
-      ],
-      [
-        1673199585,
-        9545
-      ],
-      [
-        1673199793,
-        9752
-      ],
-      [
-        1673200000,
-        9960
-      ],
-      [
-        1673200208,
-        10167
-      ],
-      [
-        1673200415,
-        10375
-      ],
-      [
-        1673200623,
-        10582
-      ],
-      [
-        1673200828,
-        10790
-      ],
-      [
-        1673201036,
-        10997
-      ],
-      [
-        1673201243,
-        11205
-      ],
-      [
-        1673201451,
-        11412
-      ],
-      [
-        1673201658,
-        11620
-      ],
-      [
-        1673201866,
-        11827
-      ],
-      [
-        1673202073,
-        12035
-      ],
-      [
-        1673202281,
-        12242
-      ],
-      [
-        1673202488,
-        12450
-      ],
-      [
-        1673202694,
-        12657
-      ],
-      [
-        1673202901,
-        12865
-      ],
-      [
-        1673203109,
-        13072
-      ],
-      [
-        1673203316,
-        13280
       ]
     ]
   },
