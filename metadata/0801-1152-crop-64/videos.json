@@ -8373,12 +8373,12 @@
     "camera":"07-SALA-PG-3-PISO",
     "length_frames":108121,
     "length_seconds":1802,
-    "time_start":1672542000,
+    "time_start":1673222400,
     "time_end":1673224200,
     "continuous":false,
     "seek":[
       [
-        1673146800,
+        1673222400,
         0
       ],
       [
