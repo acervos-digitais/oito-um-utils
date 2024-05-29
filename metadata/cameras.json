@@ -8,7 +8,11 @@
       720
     ],
     "latitude": -15.799059935606524,
-    "longitude": -47.86139756489708
+    "longitude": -47.86139756489708,
+    "fps": [
+      29,
+      30
+    ]
   },
   "02-COBERTURA-ENTRADA-PR": {
     "dir": "02-COBERTURA-ENTRADA-PR",
@@ -19,7 +23,10 @@
       720
     ],
     "latitude": -15.799144138221648,
-    "longitude": -47.86021475547347
+    "longitude": -47.86021475547347,
+    "fps": [
+      30
+    ]
   },
   "03-ENTRADA-PP-RAIO-X-TERREO": {
     "dir": "03-ENTRADA-PP-RAIO-X-TERREO",
@@ -30,7 +37,11 @@
       960
     ],
     "latitude": -15.799149461525205,
-    "longitude": -47.86022121383736
+    "longitude": -47.86022121383736,
+    "fps": [
+      24,
+      29
+    ]
   },
   "04-PALACIO-ALA-LESTE-TERREO": {
     "dir": "04-PALACIO-ALA-LESTE-TERREO",
@@ -41,7 +52,11 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25,
+      60
+    ]
   },
   "05-PALACIO-ALA-OESTE": {
     "dir": "05-PALACIO-ALA-OESTE",
@@ -52,7 +67,13 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25,
+      29,
+      30,
+      60
+    ]
   },
   "06-PRIVATIVO-COMBOIO": {
     "dir": "06-PRIVATIVO-COMBOIO",
@@ -63,7 +84,10 @@
       720
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      60
+    ]
   },
   "07-SALA-PG-3-PISO": {
     "dir": "07-SALA-PG-3-PISO",
@@ -74,7 +98,11 @@
       1440
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25,
+      60
+    ]
   },
   "08-SUBSOLO-ADM": {
     "dir": "08-SUBSOLO-ADM",
@@ -85,7 +113,10 @@
       1520
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25
+    ]
   },
   "09-ELEVADOR-DE-SERVICO-TERREO": {
     "dir": "09-ELEVADOR-DE-SERVICO-TERREO",
@@ -96,7 +127,12 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25,
+      29,
+      60
+    ]
   },
   "10-SALAO-NOBRE": {
     "dir": "10-SALAO-NOBRE",
@@ -107,7 +143,10 @@
       720
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      30
+    ]
   },
   "11-SALAO-OESTE": {
     "dir": "11-SALAO-OESTE",
@@ -118,7 +157,10 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      30
+    ]
   },
   "12-2o-ANDAR-RAMPA": {
     "dir": "12-2o-ANDAR-RAMPA",
@@ -129,7 +171,11 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25,
+      60
+    ]
   },
   "13-2o-ANDAR-ELEVADOR-LESTE": {
     "dir": "13-2o-ANDAR-ELEVADOR-LESTE",
@@ -140,7 +186,12 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25,
+      30,
+      60
+    ]
   },
   "14-2o-ANDAR-ELEVADOR-OESTE": {
     "dir": "14-2o-ANDAR-ELEVADOR-OESTE",
@@ -151,7 +202,11 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25,
+      60
+    ]
   },
   "15-MESANINO": {
     "dir": "15-MESANINO",
@@ -162,7 +217,11 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25,
+      60
+    ]
   },
   "16-CAMERA-VIP-PR": {
     "dir": "16-CAMERA-VIP-PR",
@@ -173,7 +232,11 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      29,
+      30
+    ]
   },
   "17-3o-ANDAR-SALA-PR": {
     "dir": "17-3o-ANDAR-SALA-PR",
@@ -184,7 +247,11 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25,
+      60
+    ]
   },
   "18-3o-ANDAR-SALA-DE-AUDIENCIA": {
     "dir": "18-3o-ANDAR-SALA-DE-AUDIENCIA",
@@ -195,7 +262,12 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25,
+      30,
+      60
+    ]
   },
   "19-3o-ANDAR-CORREDOR-ACESSO-LESTE": {
     "dir": "19-3o-ANDAR-CORREDOR-ACESSO-LESTE",
@@ -206,7 +278,11 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25,
+      60
+    ]
   },
   "20-ELEVADORES-ALA-OESTE": {
     "dir": "20-ELEVADORES-ALA-OESTE",
@@ -217,7 +293,11 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25,
+      60
+    ]
   },
   "21-2o-ANDAR-ESCADA-OESTE": {
     "dir": "21-2o-ANDAR-ESCADA-OESTE",
@@ -228,7 +308,11 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25,
+      60
+    ]
   },
   "22-3o-ANDAR-ESCADA-OESTE": {
     "dir": "22-3o-ANDAR-ESCADA-OESTE",
@@ -239,7 +323,11 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25,
+      60
+    ]
   },
   "23-ELEVADOR-MINISTROS": {
     "dir": "23-ELEVADOR-MINISTROS",
@@ -250,7 +338,11 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25,
+      60
+    ]
   },
   "24-4o-ANDAR-ELEVADOR-LESTE": {
     "dir": "24-4o-ANDAR-ELEVADOR-LESTE",
@@ -261,7 +353,11 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25,
+      60
+    ]
   },
   "25-4o-ANDAR-ESCADA-OESTE": {
     "dir": "25-4o-ANDAR-ESCADA-OESTE",
@@ -272,7 +368,12 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      29,
+      30,
+      60
+    ]
   },
   "26-4o-ANDAR-ELEVADOR-OESTE": {
     "dir": "26-4o-ANDAR-ELEVADOR-OESTE",
@@ -283,7 +384,11 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25,
+      60
+    ]
   },
   "27-4o-ANDAR-LADO-LESTE": {
     "dir": "27-4o-ANDAR-LADO-LESTE",
@@ -294,7 +399,10 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      30
+    ]
   },
   "28-4o-ANDAR-LADO-OESTE": {
     "dir": "28-4o-ANDAR-LADO-OESTE",
@@ -305,7 +413,10 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      30
+    ]
   },
   "29-ANEXO-I": {
     "dir": "29-ANEXO-I",
@@ -316,7 +427,11 @@
       1080
     ],
     "latitude": -15.8,
-    "longitude": -47.86
+    "longitude": -47.86,
+    "fps": [
+      25,
+      30
+    ]
   },
   "30-ANEXO-I-ENTRADA-PRINCIPAL-CATRACAS": {
     "dir": "30-ANEXO-I-ENTRADA-PRINCIPAL-CATRACAS",
@@ -327,7 +442,11 @@
       1080
     ],
     "latitude": -15.799644905957415,
-    "longitude": -47.8592818037773
+    "longitude": -47.8592818037773,
+    "fps": [
+      25,
+      60
+    ]
   },
   "31-ANEXO-I-CONCHA-ANEXO": {
     "dir": "31-ANEXO-I-CONCHA-ANEXO",
@@ -338,7 +457,11 @@
       1080
     ],
     "latitude": -15.79974452146819,
-    "longitude": -47.85933754898157
+    "longitude": -47.85933754898157,
+    "fps": [
+      25,
+      30
+    ]
   },
   "32-ANEXO-III-REFEITORIO-CREDEN": {
     "dir": "32-ANEXO-III-REFEITORIO-CREDEN",
@@ -349,7 +472,11 @@
       1080
     ],
     "latitude": -15.798948709125478,
-    "longitude": -47.85892450853482
+    "longitude": -47.85892450853482,
+    "fps": [
+      30,
+      60
+    ]
   },
   "33-ANEXO-III-REFEITORIO": {
     "dir": "33-ANEXO-III-REFEITORIO",
@@ -360,6 +487,10 @@
       1080
     ],
     "latitude": -15.798948709125478,
-    "longitude": -47.85892450853482
+    "longitude": -47.85892450853482,
+    "fps": [
+      30,
+      60
+    ]
   }
 }
