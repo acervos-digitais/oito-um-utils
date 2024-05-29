@@ -28,6 +28,7 @@ Coleção de notebooks/scripts para ajudar com o processamento de videos.
   "resolution": [1280, 720],
   "latitude": -15.800873575724609,
   "longitude": -47.86393610757385,
+  "fps": [24, 30, 60]
 },
 ```
 onde:
@@ -37,6 +38,7 @@ onde:
 - `resolution`: resolução do video em pixeis
 - `latitude`: latitude do local do video
 - `longitude`: longitude do local do video
+- `fps`: lista de _framerates_ dos videos capturados por essa camera
 
 
 #### `videos.json`: informação sobre os arquivos de vídeo no formato:
@@ -45,6 +47,7 @@ onde:
 "arquivo.mp4" : {
   "name": "arquivo.mp4",
   "camera": "01-COBERTURA-PP-OESTE",
+  "fps": 30,
   "length_seconds": 1780,
   "length_frames": 53400,
   "time_start": 1673204400,
@@ -65,6 +68,7 @@ onde:
 onde:
 - `name`: nome do arquivo de video
 - `camera`: id da camera
+- `fps`: _framerate_ do video em *quadros por segundo*
 - `length_seconds`: duração do video em *segundos*
 - `length_frames`: duração do video em *frames*
 - `time_start`: horário no começo do video (em *unix epoch time*)
