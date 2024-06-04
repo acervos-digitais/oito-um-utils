@@ -33,3 +33,27 @@ file count,FULL size,directory name
 15  35G  31-ANEXO-I-CONCHA-ANEXO
 15  27G  32-ANEXO-III-REFEITORIO-CREDEN
 14  26G  33-ANEXO-III-REFEITORIO
+
+
+---
+REAL OFICIAL
+
+https://www.gov.br/gsi/pt-br/centrais-de-conteudo/noticias/2023-1/
+https://drive.presidencia.gov.br/public/615ba7
+
+01-COBERTURA PP OESTE - 271
+02-COBERTURA ENTRADA PR - 49
+03-ENTRADA PP RAIO X - TERREO - 48
+04-PALACIO ALA LESTE - TERREO - 411
+06-PRIVATIVO COMBOIO - 32
+07-SALA PG - 3 PISO - 36
+09-ELEVADOR DE SERVICO - TERREO - 30
+14-2º ANDAR ELEVADOR OESTE - 4
+17-3º ANDAR SALA PR - 32
+20- ELEVADORES ALA OESTE - 5
+22- 3º ANDAR ESCADA OESTE - 36
+23-Elevador Ministros - 48
+24-4° Andar - Elevador Leste - 48
+26-4º Andar - Elevador Oeste - 48
+28-4º Andar - Lado Oeste - 48
+
