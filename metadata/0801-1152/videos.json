@@ -7853,7 +7853,7 @@
     "length_frames":108061,
     "length_seconds":1801,
     "time_start":1673222398,
-    "time_end":1735700400,
+    "time_end":1673224199,
     "continuous":false,
     "seek":[
       [
@@ -7928,7 +7928,7 @@
     "camera":"06-PRIVATIVO-COMBOIO",
     "length_frames":108121,
     "length_seconds":1802,
-    "time_start":1735700400,
+    "time_start":1673224197,
     "time_end":1673225998,
     "continuous":false,
     "seek":[
@@ -8049,7 +8049,7 @@
     "length_frames":214921,
     "length_seconds":3582,
     "time_start":1673146799,
-    "time_end":1735700400,
+    "time_end":1673146800,
     "continuous":false,
     "seek":[
       [
@@ -8280,8 +8280,8 @@
     "camera":"07-SALA-PG-3-PISO",
     "length_frames":214681,
     "length_seconds":3578,
-    "time_start":1735700400,
-    "time_end":1735700400,
+    "time_start":1673161126,
+    "time_end":1673146800,
     "continuous":false,
     "seek":[
       [
@@ -8432,7 +8432,7 @@
     "camera":"07-SALA-PG-3-PISO",
     "length_frames":205801,
     "length_seconds":3430,
-    "time_start":1674057429,
+    "time_start":1673193429,
     "time_end":1673196858,
     "continuous":true,
     "seek":[
@@ -8453,7 +8453,7 @@
     "length_frames":205681,
     "length_seconds":3428,
     "time_start":1673196859,
-    "time_end":1674064286,
+    "time_end":1673200286,
     "continuous":true,
     "seek":[
       [
@@ -8512,7 +8512,7 @@
     "camera":"07-SALA-PG-3-PISO",
     "length_frames":211021,
     "length_seconds":3517,
-    "time_start":1674071382,
+    "time_start":1673207382,
     "time_end":1673210898,
     "continuous":true,
     "seek":[
@@ -8552,7 +8552,7 @@
     "camera":"07-SALA-PG-3-PISO",
     "length_frames":153961,
     "length_seconds":2566,
-    "time_start":1674078435,
+    "time_start":1673214435,
     "time_end":1673217000,
     "continuous":true,
     "seek":[
@@ -8592,8 +8592,8 @@
     "camera":"07-SALA-PG-3-PISO",
     "length_frames":205801,
     "length_seconds":3430,
-    "time_start":1674057459,
-    "time_end":1674060888,
+    "time_start":1673193459,
+    "time_end":1673196888,
     "continuous":true,
     "seek":[
       [
@@ -8612,7 +8612,7 @@
     "camera":"07-SALA-PG-3-PISO",
     "length_frames":205681,
     "length_seconds":3428,
-    "time_start":1674060889,
+    "time_start":1673196889,
     "time_end":1673200316,
     "continuous":true,
     "seek":[
@@ -9637,8 +9637,8 @@
     "length_frames":108121,
     "length_seconds":1802,
     "time_start":1673229598,
-    "time_end":1735700400,
-    "continuous":true,
+    "time_end":1673231400,
+    "continuous":false,
     "seek":[
       [
         1673229598,
@@ -9656,8 +9656,8 @@
     "camera":"09-ELEVADOR-DE-SERVICO-TERREO",
     "length_frames":108001,
     "length_seconds":1800,
-    "time_start":1735700400,
-    "time_end":1735700400,
+    "time_start":1673231398,
+    "time_end":1673146800,
     "continuous":false,
     "seek":[
       [
@@ -11492,7 +11492,7 @@
     "camera":"15-MESANINO",
     "length_frames":98881,
     "length_seconds":1648,
-    "time_start":1672542000,
+    "time_start":1673172579,
     "time_end":1673174226,
     "continuous":false,
     "seek":[
@@ -12745,7 +12745,7 @@
     "length_frames":120602,
     "length_seconds":4020,
     "time_start":1673209824,
-    "time_end":1674077844,
+    "time_end":1673213844,
     "continuous":true,
     "seek":[
       [
@@ -12785,7 +12785,7 @@
     "length_frames":54007,
     "length_seconds":1802,
     "time_start":1673217000,
-    "time_end":1674082801,
+    "time_end":1673218801,
     "continuous":true,
     "seek":[
       [
@@ -18944,7 +18944,7 @@
     "camera":"26-4o-ANDAR-ELEVADOR-OESTE",
     "length_frames":108121,
     "length_seconds":1802,
-    "time_start":1674046800,
+    "time_start":1673182800,
     "time_end":1673184601,
     "continuous":true,
     "seek":[
@@ -19065,7 +19065,7 @@
     "length_frames":108121,
     "length_seconds":1802,
     "time_start":1673193600,
-    "time_end":1672542000,
+    "time_end":1673195402,
     "continuous":false,
     "seek":[
       [
@@ -19204,7 +19204,7 @@
     "camera":"26-4o-ANDAR-ELEVADOR-OESTE",
     "length_frames":108121,
     "length_seconds":1802,
-    "time_start":1674064800,
+    "time_start":1673200800,
     "time_end":1673202601,
     "continuous":true,
     "seek":[
@@ -19532,8 +19532,8 @@
     "camera":"27-4o-ANDAR-LADO-LESTE",
     "length_frames":54062,
     "length_seconds":1802,
-    "time_start":1672542000,
-    "time_end":1672545601,
+    "time_start":1673148600,
+    "time_end":1673150401,
     "continuous":false,
     "seek":[
       [
@@ -19624,8 +19624,8 @@
     "camera":"27-4o-ANDAR-LADO-LESTE",
     "length_frames":54092,
     "length_seconds":1803,
-    "time_start":1672542000,
-    "time_end":1672542000,
+    "time_start":1673150400,
+    "time_end":1673146800,
     "continuous":false,
     "seek":[
       [
@@ -19668,7 +19668,7 @@
     "camera":"27-4o-ANDAR-LADO-LESTE",
     "length_frames":54059,
     "length_seconds":1801,
-    "time_start":1672542000,
+    "time_start":1673152202,
     "time_end":1673172003,
     "continuous":false,
     "seek":[
@@ -19765,7 +19765,7 @@
     "length_frames":54062,
     "length_seconds":1802,
     "time_start":1673157600,
-    "time_end":1673150883,
+    "time_end":1673159402,
     "continuous":false,
     "seek":[
       [
@@ -19804,7 +19804,7 @@
     "camera":"27-4o-ANDAR-LADO-LESTE",
     "length_frames":54062,
     "length_seconds":1802,
-    "time_start":1672542000,
+    "time_start":1673159400,
     "time_end":1673150523,
     "continuous":false,
     "seek":[
@@ -19852,8 +19852,8 @@
     "camera":"27-4o-ANDAR-LADO-LESTE",
     "length_frames":54062,
     "length_seconds":1802,
-    "time_start":1672542000,
-    "time_end":1672542000,
+    "time_start":1673161200,
+    "time_end":1673146800,
     "continuous":false,
     "seek":[
       [
@@ -19932,8 +19932,8 @@
     "camera":"27-4o-ANDAR-LADO-LESTE",
     "length_frames":54062,
     "length_seconds":1802,
-    "time_start":1674030599,
-    "time_end":1674032402,
+    "time_start":1673166599,
+    "time_end":1673168402,
     "continuous":true,
     "seek":[
       [
@@ -19952,7 +19952,7 @@
     "camera":"27-4o-ANDAR-LADO-LESTE",
     "length_frames":54062,
     "length_seconds":1802,
-    "time_start":1673150523,
+    "time_start":1673168400,
     "time_end":1673170201,
     "continuous":false,
     "seek":[
@@ -20176,7 +20176,7 @@
     "camera":"27-4o-ANDAR-LADO-LESTE",
     "length_frames":54062,
     "length_seconds":1802,
-    "time_start":1672542000,
+    "time_start":1673179199,
     "time_end":1673181001,
     "continuous":false,
     "seek":[
@@ -24305,7 +24305,7 @@
     "length_frames":44101,
     "length_seconds":1764,
     "time_start":1673209799,
-    "time_end":1735700400,
+    "time_end":1673211547,
     "continuous":false,
     "seek":[
       [
