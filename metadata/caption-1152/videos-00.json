@@ -1,0 +1,3167 @@
+{
+  "TEST_00.mp4":{
+    "name":"TEST_00.mp4",
+    "camera":"00-TESTS",
+    "length_frames":5535,
+    "length_seconds":184,
+    "fps":30,
+    "time_start":1673204140,
+    "time_end":1673204400,
+    "continuous":false,
+    "seek":[
+      [
+        1673204140,
+        0
+      ],
+      [
+        1673204151,
+        8
+      ],
+      [
+        1673204155,
+        11
+      ],
+      [
+        1673204159,
+        14
+      ],
+      [
+        1673204168,
+        20
+      ],
+      [
+        1673204188,
+        25
+      ],
+      [
+        1673204327,
+        34
+      ],
+      [
+        1673204218,
+        40
+      ],
+      [
+        1673204226,
+        46
+      ],
+      [
+        1673204229,
+        48
+      ],
+      [
+        1673204248,
+        60
+      ],
+      [
+        1673204254,
+        63
+      ],
+      [
+        1673204264,
+        72
+      ],
+      [
+        1673204267,
+        74
+      ],
+      [
+        1673204288,
+        80
+      ],
+      [
+        1673204286,
+        83
+      ],
+      [
+        1673204290,
+        86
+      ],
+      [
+        1673204301,
+        95
+      ],
+      [
+        1673204304,
+        97
+      ],
+      [
+        1673204309,
+        100
+      ],
+      [
+        1673204322,
+        112
+      ],
+      [
+        1673204333,
+        118
+      ],
+      [
+        1673204362,
+        146
+      ],
+      [
+        1673204364,
+        149
+      ],
+      [
+        1673204394,
+        178
+      ],
+      [
+        1673204400,
+        184
+      ]
+    ],
+    "camera_movement_sequences":[
+      [
+        90,
+        95
+      ],
+      [
+        315,
+        330
+      ],
+      [
+        545,
+        750
+      ],
+      [
+        960,
+        980
+      ],
+      [
+        1620,
+        1680
+      ],
+      [
+        2375,
+        2535
+      ],
+      [
+        2570,
+        2580
+      ],
+      [
+        3240,
+        3270
+      ],
+      [
+        3305,
+        3340
+      ],
+      [
+        3385,
+        3400
+      ],
+      [
+        3435,
+        3450
+      ],
+      [
+        5220,
+        5280
+      ],
+      [
+        5385,
+        5395
+      ],
+      [
+        5520,
+        5530
+      ]
+    ],
+    "foi_count_frames":5145,
+    "foi_count_seconds":171.5,
+    "foi_pct":0.9295392953929539,
+    "foi_sequences":[
+      [
+        5,
+        710
+      ],
+      [
+        800,
+        1615
+      ],
+      [
+        1675,
+        2065
+      ],
+      [
+        2160,
+        2370
+      ],
+      [
+        2435,
+        5215
+      ],
+      [
+        5270,
+        5515
+      ]
+    ],
+    "representative_frames":[
+      {
+        "captions":{
+          "en":[
+            "a group of people standing in a room with a curtain",
+            "people are walking through a large open doorway ",
+            "The image shows a large window with multiple people inside, some of whom are wearing hats and jackets"
+          ]
+        },
+        "counts":{
+          "person":14
+        },
+        "index":5,
+        "objects":[
+          "person",
+          "support column",
+          "window"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a man standing in a room with a bunch of people",
+            "a man standing in front of a large screen tv ",
+            "The image shows a man in shorts standing indoors"
+          ]
+        },
+        "counts":{
+          "person":20
+        },
+        "index":100,
+        "objects":[
+          "chair",
+          "mirror",
+          "person",
+          "table"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a woman carrying a child in her arms",
+            "a man in a yellow shirt and a yellow vest ",
+            "The image shows a person wearing colorful clothing and carrying items"
+          ]
+        },
+        "counts":{
+          "person":1
+        },
+        "index":340,
+        "objects":[
+          "person"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a woman in a green and yellow outfit walking down a street",
+            "a woman in a black shirt and a green and white striped shirt ",
+            "The image shows a person walking in an indoor setting"
+          ]
+        },
+        "counts":{
+          "person":2
+        },
+        "index":355,
+        "objects":[
+          "person"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a man in a green shirt and black pants is holding a frisbee",
+            "a man holding a colorful umbrella in front of a building ",
+            "The image shows a person carrying another individual"
+          ]
+        },
+        "counts":{
+          "person":1
+        },
+        "index":370,
+        "objects":[
+          "person"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a man is standing in front of a black wall",
+            "a wall with a picture of a man on it ",
+            "The image shows a person standing in front of an outdoor setting"
+          ]
+        },
+        "counts":{},
+        "index":540,
+        "objects":[]
+      },
+      {
+        "captions":{
+          "en":[
+            "a man is seen in a video posted on a cell phone",
+            "a wall with a picture of a man on it ",
+            "The image shows a person walking on the sidewalk during what appears to be daytime"
+          ]
+        },
+        "counts":{},
+        "index":710,
+        "objects":[]
+      },
+      {
+        "captions":{
+          "en":[
+            "a man sitting at a table in a room with a large window",
+            "a room with a table and chairs and a window ",
+            "The image shows a room with furniture, including chairs and tables"
+          ]
+        },
+        "counts":{
+          "person":1
+        },
+        "index":755,
+        "objects":[
+          "chair",
+          "mirror",
+          "person",
+          "sculpture",
+          "support column",
+          "table"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a man sitting at a table in a room with a large window",
+            "a room with a chair and a table ",
+            "The image shows a room with wooden furniture, including chairs and tables"
+          ]
+        },
+        "counts":{
+          "person":2
+        },
+        "index":800,
+        "objects":[
+          "chair",
+          "mirror",
+          "person",
+          "sculpture",
+          "support column",
+          "table"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a man sitting on a chair in a room with a large painting",
+            "a man sitting on a chair in a room ",
+            "The image features a group of people gathered in what appears to be an indoor setting"
+          ]
+        },
+        "counts":{
+          "person":7
+        },
+        "index":985,
+        "objects":[
+          "chair",
+          "person",
+          "support column",
+          "table"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people standing around a building with chairs",
+            "a crowd of people standing around a large metal object ",
+            "The image shows a group of people working together in an indoor space"
+          ]
+        },
+        "counts":{
+          "person":35
+        },
+        "index":1145,
+        "objects":[
+          "chair",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people walking down a hallway with a curtain",
+            "a large window with a bunch of hanging umbrellas ",
+            "The image shows a group of people in various colors and outfits, some wearing helmets or jackets with logos"
+          ]
+        },
+        "counts":{
+          "person":21
+        },
+        "index":1385,
+        "objects":[
+          "person",
+          "support column",
+          "window"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people walking down a staircase in a building",
+            "a large building with a large window ",
+            "The image shows a group of people wearing yellow shirts, standing in front of what appears to be an indoor building or window"
+          ]
+        },
+        "counts":{
+          "person":21
+        },
+        "index":1615,
+        "objects":[
+          "person",
+          "support column",
+          "window"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a train with people on it is shown in a dark room",
+            "a large screen tv sitting on top of a table ",
+            "The image shows a scene with multiple screens displaying various content, including text and images"
+          ]
+        },
+        "counts":{
+          "person":7
+        },
+        "index":1675,
+        "objects":[
+          "person",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large room with a television and a lot of people",
+            "a room with a lot of chairs and a tv ",
+            "The image shows a room with various objects, including chairs and tables"
+          ]
+        },
+        "counts":{
+          "person":14
+        },
+        "index":1685,
+        "objects":[
+          "chair",
+          "painting",
+          "person",
+          "sculpture",
+          "support column",
+          "table"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a man and woman standing next to each other on a sidewalk",
+            "a man in a blue shirt is standing by a trash can ",
+            "The image shows a man wearing blue and yellow clothing, standing near the wall with his phone in hand"
+          ]
+        },
+        "counts":{
+          "person":2
+        },
+        "index":1750,
+        "objects":[
+          "mirror",
+          "person"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a man in a hat and green pants is walking down a hallway",
+            "a man in a blue shirt standing in front of a wall ",
+            "A person wearing a blue shirt, green hat and sunglasses is walking in front of black walls with red letters"
+          ]
+        },
+        "counts":{
+          "person":1
+        },
+        "index":1835,
+        "objects":[
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a man in a hat and green pants standing in front of a black wall",
+            "a man standing in front of a wall with a clock ",
+            "A man wearing a white hat and blue shirt is walking past an object on the ground"
+          ]
+        },
+        "counts":{
+          "person":1
+        },
+        "index":1975,
+        "objects":[
+          "mirror",
+          "person"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a man in a suit is standing in a room",
+            "a black refrigerator with a black door ",
+            "The image shows a hallway with black tiles, white walls and various signs"
+          ]
+        },
+        "counts":{},
+        "index":2065,
+        "objects":[
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "two men in yellow shirts walking down a hallway",
+            "a man standing in front of a wall with a white wall ",
+            "The image shows a man wearing sunglasses and walking in front of black walls"
+          ]
+        },
+        "counts":{
+          "person":1
+        },
+        "index":2160,
+        "objects":[
+          "mirror",
+          "person"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of men in yellow shirts walking down a hallway",
+            "two men standing in a hallway with a cell phone ",
+            "Three men in yellow shirts are walking together, one of them holding a baseball cap"
+          ]
+        },
+        "counts":{
+          "person":4
+        },
+        "index":2210,
+        "objects":[
+          "person",
+          "ramp"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a man in a yellow shirt is talking on a cell phone",
+            "a man talking on a cell phone while standing in front of a wall ",
+            "A man in a yellow shirt is standing near other people"
+          ]
+        },
+        "counts":{
+          "person":4
+        },
+        "index":2245,
+        "objects":[
+          "person",
+          "ramp"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people standing in a hallway next to a wall",
+            "two men standing in a room with a tv ",
+            "The image shows a group of people in yellow shirts walking past black cabinets and equipment, with one man wearing green"
+          ]
+        },
+        "counts":{
+          "person":4
+        },
+        "index":2370,
+        "objects":[
+          "mirror",
+          "person"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people standing around a man in a yellow hat",
+            "a large group of people sitting around a fire hydrant ",
+            "The image shows people gathered in a public space, with some kneeling down and others standing around"
+          ]
+        },
+        "counts":{
+          "person":14
+        },
+        "index":2435,
+        "objects":[
+          "chair",
+          "person"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people standing around a man in a yellow hat",
+            "people are standing around a building ",
+            "The image shows people gathered in an outdoor setting, some wearing colorful clothing and others kneeling on the ground"
+          ]
+        },
+        "counts":{
+          "person":14
+        },
+        "index":2440,
+        "objects":[
+          "chair",
+          "person"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a blurry image of a crowd of people walking through a building",
+            "a crowd of people standing around a man in a suit ",
+            "The image shows a crowd of people walking in an indoor area"
+          ]
+        },
+        "counts":{
+          "person":13
+        },
+        "index":2475,
+        "objects":[
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people standing around a stadium with chairs",
+            "a large group of people standing around a large metal structure ",
+            "A group of people in green and yellow shirts are standing around chairs inside a building"
+          ]
+        },
+        "counts":{
+          "person":24
+        },
+        "index":2495,
+        "objects":[
+          "chair",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a man is seen in a crowd of people in a stadium",
+            "a large group of people standing around a large room ",
+            "The image shows a group of people in yellow shirts walking around an area with many rows and stacks of black metal chairs"
+          ]
+        },
+        "counts":{
+          "person":26
+        },
+        "index":2515,
+        "objects":[
+          "chair",
+          "mirror",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a crowd of people standing around a building with luggage",
+            "people standing around a large building ",
+            "The image shows a large indoor space with many people, some of whom are wearing yellow shirts"
+          ]
+        },
+        "counts":{
+          "person":42
+        },
+        "index":2540,
+        "objects":[
+          "chair",
+          "mirror",
+          "person",
+          "ramp",
+          "support column",
+          "table"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people walking around a building with a man on a skateboard",
+            "people walking down a hallway with a large group of people ",
+            "The image shows a large group of people walking in an indoor area"
+          ]
+        },
+        "counts":{
+          "person":46
+        },
+        "index":2585,
+        "objects":[
+          "chair",
+          "person",
+          "ramp",
+          "stairs",
+          "support column",
+          "table"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people walking around a building with a large crowd of people",
+            "people walking down a hallway with a bunch of skateboards ",
+            "The image shows a group of people walking on an indoor ramp"
+          ]
+        },
+        "counts":{
+          "person":47
+        },
+        "index":2675,
+        "objects":[
+          "chair",
+          "person",
+          "stairs",
+          "support column",
+          "table"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people standing around a building with a staircase",
+            "people walking around a large building ",
+            "The image shows a group of people walking through an indoor space"
+          ]
+        },
+        "counts":{
+          "person":52
+        },
+        "index":2780,
+        "objects":[
+          "person",
+          "ramp",
+          "support column",
+          "table"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a crowd of people walking around a building with a circular staircase",
+            "people walking around a building with a large clock ",
+            "The image shows a large group of people inside an indoor space"
+          ]
+        },
+        "counts":{
+          "person":51
+        },
+        "index":2855,
+        "objects":[
+          "chair",
+          "mirror",
+          "person",
+          "stairs",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a crowd of people standing around a building with a man on a skateboard",
+            "people standing around a large building ",
+            "The image shows a crowd of people in an indoor setting"
+          ]
+        },
+        "counts":{
+          "person":53
+        },
+        "index":2975,
+        "objects":[
+          "chair",
+          "mirror",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people walking through an airport with luggage",
+            "a crowd of people standing around a building ",
+            "The image depicts a scene inside an airport terminal, with people in yellow shirts and black pants walking around"
+          ]
+        },
+        "counts":{
+          "person":38
+        },
+        "index":3280,
+        "objects":[
+          "chair",
+          "mirror",
+          "painting",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a crowd of people walking around a building with a large circular area",
+            "people are walking around a terminal ",
+            "The image shows a large group of people in yellow shirts walking around an indoor area with various objects like chairs, tables and signs"
+          ]
+        },
+        "counts":{
+          "person":41
+        },
+        "index":3315,
+        "objects":[
+          "chair",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people standing around a building with a glass ceiling",
+            "people are walking around in a large room ",
+            "The image shows a bustling indoor mall with people walking around, some wearing yellow shirts"
+          ]
+        },
+        "counts":{
+          "person":26
+        },
+        "index":3335,
+        "objects":[
+          "mirror",
+          "person",
+          "ramp",
+          "stairs",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people standing around a building with chairs",
+            "a crowd of people standing around a building ",
+            "The image shows a busy indoor setting with people walking around, sitting in chairs and carrying backpacks"
+          ]
+        },
+        "counts":{
+          "person":40
+        },
+        "index":3350,
+        "objects":[
+          "chair",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people standing around a building with luggage",
+            "a crowd of people standing around a building ",
+            "The image shows a busy indoor setting with people walking around, some carrying backpacks and wearing yellow jackets"
+          ]
+        },
+        "counts":{
+          "person":36
+        },
+        "index":3375,
+        "objects":[
+          "chair",
+          "mirror",
+          "person",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people standing around a building with a sign",
+            "people are standing in a lobby with a large clock ",
+            "A group of people in yellow shirts walk through an airport, passing by a sign and waiting areas"
+          ]
+        },
+        "counts":{
+          "person":23
+        },
+        "index":3410,
+        "objects":[
+          "chair",
+          "mirror",
+          "person",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people walking around a building with luggage",
+            "people are standing in a room with a large building ",
+            "The image shows a large indoor area with many people walking around, some wearing yellow jackets"
+          ]
+        },
+        "counts":{
+          "person":44
+        },
+        "index":3460,
+        "objects":[
+          "chair",
+          "mirror",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people walking around a building with luggage",
+            "people are walking around a building ",
+            "The image shows a group of people walking in an indoor space with chairs and signs"
+          ]
+        },
+        "counts":{
+          "person":45
+        },
+        "index":3565,
+        "objects":[
+          "chair",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people standing around a building with luggage",
+            "people are walking around a large building ",
+            "The image shows a large indoor space with people wearing yellow shirts and helmets"
+          ]
+        },
+        "counts":{
+          "person":38
+        },
+        "index":3660,
+        "objects":[
+          "chair",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people walking around a building with luggage",
+            "people are walking around a large building ",
+            "The image shows a crowd of people in an indoor space"
+          ]
+        },
+        "counts":{
+          "person":50
+        },
+        "index":3825,
+        "objects":[
+          "chair",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people walking around a building with a lot of chairs",
+            "people walking around a building ",
+            "The image shows a large group of people in yellow shirts walking through an indoor space"
+          ]
+        },
+        "counts":{
+          "person":49
+        },
+        "index":4170,
+        "objects":[
+          "chair",
+          "mirror",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people standing around a building with a circular staircase",
+            "a large group of people standing around a large building ",
+            "The image shows a group of people in yellow shirts walking around an indoor space with chairs and tables"
+          ]
+        },
+        "counts":{
+          "person":44
+        },
+        "index":4815,
+        "objects":[
+          "chair",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people standing around a building with a ramp",
+            "people are standing in a large room ",
+            "The image shows a busy indoor area with people in yellow shirts, skateboards on the floor"
+          ]
+        },
+        "counts":{
+          "person":52
+        },
+        "index":5020,
+        "objects":[
+          "chair",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people standing around a building with luggage",
+            "people are walking around in a large room ",
+            "The image shows a group of people walking in an indoor area"
+          ]
+        },
+        "counts":{
+          "person":51
+        },
+        "index":5215,
+        "objects":[
+          "chair",
+          "flag",
+          "painting",
+          "person",
+          "ramp",
+          "support column",
+          "table"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a man in a suit and tie standing in front of a black background",
+            "a blurry photo of a street scene with a light ",
+            "The image is a black and white photo with no specific details or context provided"
+          ]
+        },
+        "counts":{},
+        "index":5270,
+        "objects":[]
+      },
+      {
+        "captions":{
+          "en":[
+            "a man in a yellow shirt and green scarf standing in front of a black wall",
+            "a man wearing a green shirt and a green tie ",
+            "The image shows a person wearing yellow and green clothing, standing in front of an electrical outlet"
+          ]
+        },
+        "counts":{
+          "person":1
+        },
+        "index":5290,
+        "objects":[
+          "person"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a man in a yellow shirt and shorts is looking at his cell phone",
+            "a man standing in front of a wall holding a cell phone ",
+            "A man in a yellow shirt and striped shorts is looking at his phone, standing near an electrical outlet"
+          ]
+        },
+        "counts":{
+          "person":1
+        },
+        "index":5515,
+        "objects":[
+          "mirror",
+          "person"
+        ]
+      }
+    ],
+    "representative_frames_count":51
+  },
+  "TEST_01.mp4":{
+    "name":"TEST_01.mp4",
+    "camera":"00-TESTS",
+    "length_frames":2280,
+    "length_seconds":76,
+    "fps":30,
+    "time_start":1673189934,
+    "time_end":1673189881,
+    "continuous":false,
+    "seek":[
+      [
+        1673189934,
+        0
+      ],
+      [
+        1673189640,
+        7
+      ],
+      [
+        1673189643,
+        9
+      ],
+      [
+        1673189646,
+        13
+      ],
+      [
+        1673189649,
+        15
+      ],
+      [
+        1673189660,
+        16
+      ],
+      [
+        1673189662,
+        17
+      ],
+      [
+        1673189664,
+        20
+      ],
+      [
+        1673189667,
+        22
+      ],
+      [
+        1673189672,
+        26
+      ],
+      [
+        1673189682,
+        28
+      ],
+      [
+        1673189685,
+        32
+      ],
+      [
+        1673189690,
+        35
+      ],
+      [
+        1673189693,
+        37
+      ],
+      [
+        1673189702,
+        40
+      ],
+      [
+        1673189718,
+        45
+      ],
+      [
+        1673189723,
+        47
+      ],
+      [
+        1673189735,
+        53
+      ],
+      [
+        1673189738,
+        55
+      ],
+      [
+        1673189740,
+        58
+      ],
+      [
+        1673189744,
+        60
+      ],
+      [
+        1673189747,
+        62
+      ],
+      [
+        1673189813,
+        64
+      ],
+      [
+        1673189872,
+        70
+      ],
+      [
+        1673189878,
+        71
+      ],
+      [
+        1673189876,
+        72
+      ],
+      [
+        1673189880,
+        75
+      ],
+      [
+        1673189881,
+        76
+      ]
+    ],
+    "camera_movement_sequences":[
+      [
+        190,
+        205
+      ],
+      [
+        480,
+        510
+      ],
+      [
+        1055,
+        1075
+      ],
+      [
+        1765,
+        1800
+      ],
+      [
+        2100,
+        2120
+      ]
+    ],
+    "foi_count_frames":1450,
+    "foi_count_seconds":48.333333333333336,
+    "foi_pct":0.6359649122807017,
+    "foi_sequences":[
+      [
+        5,
+        285
+      ],
+      [
+        515,
+        755
+      ],
+      [
+        1050,
+        1610
+      ],
+      [
+        1760,
+        1805
+      ],
+      [
+        1915,
+        2090
+      ],
+      [
+        2125,
+        2275
+      ]
+    ],
+    "representative_frames":[
+      {
+        "captions":{
+          "en":[
+            "a large building being built on a lot with a lot of dirt",
+            "a man is standing on a tennis court ",
+            "The image shows a city street with various elements such as vehicles, buildings like the presidential palace and an airport terminal"
+          ]
+        },
+        "counts":{},
+        "index":5,
+        "objects":[
+          "car",
+          "flag",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a view of a highway with a few cars driving on it",
+            "a street with a sign that says \"no cars on the road\" ",
+            "The image shows a busy road with various vehicles, including buses and cars"
+          ]
+        },
+        "counts":{},
+        "index":215,
+        "objects":[
+          "car",
+          "ramp"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a view of a highway with a few cars driving down it",
+            "a highway with a train going by ",
+            "The image shows a city street with various vehicles, including cars and trucks"
+          ]
+        },
+        "counts":{},
+        "index":285,
+        "objects":[
+          "car",
+          "ramp"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a view of a street with a traffic light and people crossing it",
+            "a plane is flying over a street ",
+            "The image shows a street scene with people walking, cars on the road and some buildings in background"
+          ]
+        },
+        "counts":{
+          "person":15
+        },
+        "index":515,
+        "objects":[
+          "person",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a view of a street with a traffic light and people crossing it",
+            "a street scene with a street light and a car ",
+            "The image shows a group of people in the street, some wearing white shirts and others with blue ones"
+          ]
+        },
+        "counts":{
+          "person":10
+        },
+        "index":520,
+        "objects":[
+          "person",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a bus stop with a bus parked in front of it",
+            "a large building with a lot of windows ",
+            "The image shows an aerial view of a gas station with yellow benches and flowers in the foreground"
+          ]
+        },
+        "counts":{},
+        "index":755,
+        "objects":[
+          "car",
+          "ramp",
+          "stairs",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a parking lot with a car parked in the middle of it",
+            "a parking lot with a lot of cars parked on it ",
+            "The image shows a police car in an empty parking lot, with trees and green grass surrounding it"
+          ]
+        },
+        "counts":{},
+        "index":850,
+        "objects":[
+          "car",
+          "ramp"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a car is parked in a parking lot with a lot of parking spaces",
+            "a parking lot with a lot of parking meters ",
+            "The image shows a car driving on an empty road with blue and white markings"
+          ]
+        },
+        "counts":{},
+        "index":1050,
+        "objects":[
+          "car",
+          "ramp"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a motorcycle rider is riding down a highway in the rain",
+            "a motorcycle is driving down the road ",
+            "The image shows a road with cars and trees, taken during daytime"
+          ]
+        },
+        "counts":{},
+        "index":1085,
+        "objects":[
+          "car"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a view of a city from a high rise building",
+            "a large building with a plane flying over it ",
+            "The image shows a city street with various elements like buildings, trees and vehicles"
+          ]
+        },
+        "counts":{},
+        "index":1095,
+        "objects":[
+          "flag"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large truck is driving down a highway in the rain",
+            "a train is traveling down the tracks in a city ",
+            "The image shows a scene with flags, buildings in the background and some green grass"
+          ]
+        },
+        "counts":{},
+        "index":1105,
+        "objects":[
+          "flag"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large group of flags flying in the air",
+            "a city street with a large amount of traffic ",
+            "The image shows a city street with multiple flags, poles for lights and traffic signals"
+          ]
+        },
+        "counts":{
+          "person":15
+        },
+        "index":1120,
+        "objects":[
+          "flag",
+          "person",
+          "ramp"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a truck driving down a highway with a city in the background",
+            "a large truck is driving down a road ",
+            "The image shows a city street with various vehicles, trees in the background and buildings nearby"
+          ]
+        },
+        "counts":{},
+        "index":1205,
+        "objects":[
+          "flag",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people walking down a street next to a fence",
+            "a street with a bridge and a train on it ",
+            "The image shows a group of people marching in formation along an empty road, with flags being carried by some members"
+          ]
+        },
+        "counts":{
+          "person":7
+        },
+        "index":1355,
+        "objects":[
+          "flag",
+          "person",
+          "ramp"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large building being built with a lot of sand",
+            "a beach with a lot of people on it ",
+            "The image shows a wide-angle view of an area with flags, buildings and vehicles"
+          ]
+        },
+        "counts":{},
+        "index":1415,
+        "objects":[
+          "car",
+          "flag",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a view of a highway with a tower in the distance",
+            "a large body of water with a train on it ",
+            "The image shows a street scene with various objects such as cars, people walking on the sidewalk and trees in front of buildings"
+          ]
+        },
+        "counts":{
+          "person":3
+        },
+        "index":1595,
+        "objects":[
+          "car",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a view of a highway with a tower in the background",
+            "a large body of water with a train on it ",
+            "The image shows a city street with various elements like cars, buildings and trees"
+          ]
+        },
+        "counts":{
+          "person":3
+        },
+        "index":1610,
+        "objects":[
+          "car",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a view of a highway with a tower in the background",
+            "a large body of water with a train on it ",
+            "The image shows a large, tall structure with multiple windows and columns in the background"
+          ]
+        },
+        "counts":{
+          "person":5
+        },
+        "index":1760,
+        "objects":[
+          "car",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a street with a car driving down it and a person on a motorcycle",
+            "a large empty parking lot with a large building ",
+            "The image shows a road with white lines and trees in the background"
+          ]
+        },
+        "counts":{
+          "person":3
+        },
+        "index":1805,
+        "objects":[
+          "car",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a street with a car driving down it and a building in the background",
+            "a large empty parking lot with a large building ",
+            "The image shows a road with white lines and green grass on the sides"
+          ]
+        },
+        "counts":{
+          "person":4
+        },
+        "index":1810,
+        "objects":[
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a street with a car driving down it and a building in the background",
+            "a road with a lot of trees and a lot of cars ",
+            "The image shows a road with white lines and trees in the background"
+          ]
+        },
+        "counts":{
+          "person":3
+        },
+        "index":1915,
+        "objects":[
+          "car",
+          "person",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large field with a soccer field and a soccer goal",
+            "a man is running on a tennis court ",
+            "The image shows a flag flying in the wind at an outdoor location"
+          ]
+        },
+        "counts":{},
+        "index":1925,
+        "objects":[
+          "car",
+          "flag"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large field with a building in the background",
+            "a man is playing soccer on a field ",
+            "The image shows a flag flying in front of an empty building, with clouds and some trees visible"
+          ]
+        },
+        "counts":{},
+        "index":2090,
+        "objects":[
+          "car",
+          "flag",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a view of a city from a distance with a large dome in the background",
+            "a large white airplane flying over a city ",
+            "The image shows a road with various structures, including buildings and domes"
+          ]
+        },
+        "counts":{},
+        "index":2125,
+        "objects":[]
+      },
+      {
+        "captions":{
+          "en":[
+            "a view of a city from a distance with a large dome in the background",
+            "a large white airplane flying over a city ",
+            "The image shows a city street with various elements like buildings, trees and cars"
+          ]
+        },
+        "counts":{},
+        "index":2130,
+        "objects":[]
+      },
+      {
+        "captions":{
+          "en":[
+            "a view of a city from a distance with a street and a highway",
+            "a large white airplane flying over a city ",
+            "The image shows a road with an overcast sky, trees in the background and buildings"
+          ]
+        },
+        "counts":{},
+        "index":2140,
+        "objects":[
+          "flag"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a view of a city from a distance with a large dome in the distance",
+            "a city street with a large building ",
+            "The image shows a road with various objects such as cars, trees and buildings"
+          ]
+        },
+        "counts":{},
+        "index":2145,
+        "objects":[
+          "flag"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a city view of a street with a large building in the background",
+            "a large building with a large field ",
+            "The image shows a large white dome-shaped building with green grass surrounding it"
+          ]
+        },
+        "counts":{},
+        "index":2150,
+        "objects":[]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large city with a lot of tall buildings",
+            "a city street with a large building ",
+            "The image shows a large city with tall buildings, flags flying in the wind on poles near them"
+          ]
+        },
+        "counts":{
+          "person":12
+        },
+        "index":2165,
+        "objects":[
+          "flag",
+          "person"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a city park with a lot of trees and a lot of people",
+            "a large open field with a large building ",
+            "The image shows a cityscape with tall buildings, people walking on the sidewalk and in groups"
+          ]
+        },
+        "counts":{
+          "person":10
+        },
+        "index":2275,
+        "objects":[
+          "flag",
+          "person"
+        ]
+      }
+    ],
+    "representative_frames_count":30
+  },
+  "TEST_02.mp4":{
+    "name":"TEST_02.mp4",
+    "camera":"00-TESTS",
+    "length_frames":810,
+    "length_seconds":27,
+    "fps":30,
+    "time_start":1673232801,
+    "time_end":1673232893,
+    "continuous":false,
+    "seek":[
+      [
+        1673232801,
+        0
+      ],
+      [
+        1673232802,
+        0
+      ],
+      [
+        1673232806,
+        3
+      ],
+      [
+        1673233114,
+        4
+      ],
+      [
+        1673232824,
+        7
+      ],
+      [
+        1673232833,
+        10
+      ],
+      [
+        1673232843,
+        14
+      ],
+      [
+        1673232845,
+        15
+      ],
+      [
+        1673232854,
+        17
+      ],
+      [
+        1673232876,
+        20
+      ],
+      [
+        1673232889,
+        22
+      ],
+      [
+        1673232893,
+        26
+      ],
+      [
+        1673232894,
+        27
+      ]
+    ],
+    "camera_movement_sequences":[
+      [
+        95,
+        135
+      ]
+    ],
+    "foi_count_frames":500,
+    "foi_count_seconds":16.666666666666668,
+    "foi_pct":0.6172839506172839,
+    "foi_sequences":[
+      [
+        5,
+        90
+      ],
+      [
+        140,
+        145
+      ],
+      [
+        215,
+        425
+      ],
+      [
+        605,
+        805
+      ]
+    ],
+    "representative_frames":[
+      {
+        "captions":{
+          "en":[
+            "a night time view of a freeway with a traffic light",
+            "a city street at night with a street light ",
+            "The image shows a black and white photo of an empty street at night with various lights"
+          ]
+        },
+        "counts":{},
+        "index":5,
+        "objects":[
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a night time view of a city street with traffic",
+            "a city street at night with a train passing by ",
+            "The image shows a night scene with streetlights and buildings"
+          ]
+        },
+        "counts":{},
+        "index":90,
+        "objects":[]
+      },
+      {
+        "captions":{
+          "en":[
+            "a night time view of a street with traffic lights",
+            "a dark street with a train on it ",
+            "The image is a black and white photo of someone walking on the street, taken during what appears to be an outdoor event"
+          ]
+        },
+        "counts":{},
+        "index":140,
+        "objects":[
+          "ramp"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a night time view of a train track with lights",
+            "a dark street with a train on it ",
+            "The image is a black and white photo of four poles in the distance"
+          ]
+        },
+        "counts":{},
+        "index":145,
+        "objects":[
+          "ramp"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a night time view of a city with traffic",
+            "a dark street at night with a street light ",
+            "The image is a black and white photo of an outdoor scene at night, with lights illuminating the area"
+          ]
+        },
+        "counts":{},
+        "index":215,
+        "objects":[
+          "car"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a night time view of a city with traffic",
+            "a street at night with a lot of traffic ",
+            "The image shows a nighttime scene with lights from various sources"
+          ]
+        },
+        "counts":{},
+        "index":220,
+        "objects":[
+          "car"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a night time view of a street with cars driving on it",
+            "a city street at night with a train passing by ",
+            "The image is a black and white photo of an airport runway at night, with lights illuminating the scene"
+          ]
+        },
+        "counts":{},
+        "index":310,
+        "objects":[
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a street at night with a car and a person walking on the sidewalk",
+            "a dark photo of a street with people walking ",
+            "The image shows a street scene with wet pavement"
+          ]
+        },
+        "counts":{},
+        "index":425,
+        "objects":[
+          "ramp"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a car is seen in this surveillance image",
+            "a blurry photo of a city at night ",
+            "The image shows a nighttime scene with cars, traffic lights and streetlights"
+          ]
+        },
+        "counts":{
+          "person":1
+        },
+        "index":520,
+        "objects":[
+          "car",
+          "flag",
+          "ramp"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a night time view of a city street with a lot of traffic",
+            "a city street at night with a lot of traffic ",
+            "The image shows a nighttime scene with various lights and vehicles"
+          ]
+        },
+        "counts":{},
+        "index":605,
+        "objects":[
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a night time view of a city street with a lot of traffic",
+            "a city street at night with a lot of traffic ",
+            "The image shows a night scene with lights and trees"
+          ]
+        },
+        "counts":{},
+        "index":610,
+        "objects":[
+          "car",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a traffic camera captures a red light on a highway",
+            "a city street at night with a traffic light ",
+            "The image shows a night scene with various lights, including streetlights and car headlamps"
+          ]
+        },
+        "counts":{},
+        "index":665,
+        "objects":[
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a red car driving down a highway at night",
+            "a city street at night with a traffic light ",
+            "The image shows a night scene with various lights, including traffic and streetlights"
+          ]
+        },
+        "counts":{},
+        "index":805,
+        "objects":[
+          "car",
+          "support column"
+        ]
+      }
+    ],
+    "representative_frames_count":13
+  },
+  "TEST_03.mp4":{
+    "name":"TEST_03.mp4",
+    "camera":"00-TESTS",
+    "length_frames":2820,
+    "length_seconds":94,
+    "fps":30,
+    "time_start":1673202083,
+    "time_end":1673202370,
+    "continuous":false,
+    "seek":[
+      [
+        1673202083,
+        0
+      ],
+      [
+        1673202089,
+        1
+      ],
+      [
+        1673202100,
+        4
+      ],
+      [
+        1673202106,
+        5
+      ],
+      [
+        1673202103,
+        7
+      ],
+      [
+        1673202109,
+        8
+      ],
+      [
+        1673202119,
+        10
+      ],
+      [
+        1673202128,
+        13
+      ],
+      [
+        1673202138,
+        14
+      ],
+      [
+        1673202137,
+        16
+      ],
+      [
+        1673202139,
+        17
+      ],
+      [
+        1673202140,
+        19
+      ],
+      [
+        1673202146,
+        24
+      ],
+      [
+        1673202147,
+        26
+      ],
+      [
+        1673202149,
+        27
+      ],
+      [
+        1673202150,
+        29
+      ],
+      [
+        1673202152,
+        30
+      ],
+      [
+        1673202167,
+        32
+      ],
+      [
+        1673202185,
+        38
+      ],
+      [
+        1673202187,
+        39
+      ],
+      [
+        1673202213,
+        41
+      ],
+      [
+        1673202215,
+        44
+      ],
+      [
+        1673202217,
+        45
+      ],
+      [
+        1673202219,
+        46
+      ],
+      [
+        1673202220,
+        48
+      ],
+      [
+        1673202280,
+        85
+      ],
+      [
+        1673202302,
+        86
+      ],
+      [
+        1673202365,
+        89
+      ],
+      [
+        1673202307,
+        91
+      ],
+      [
+        1673202309,
+        92
+      ],
+      [
+        1673202370,
+        93
+      ],
+      [
+        1673202371,
+        94
+      ]
+    ],
+    "camera_movement_sequences":[
+      [
+        285,
+        300
+      ],
+      [
+        1125,
+        1140
+      ],
+      [
+        1215,
+        1230
+      ],
+      [
+        2580,
+        2605
+      ],
+      [
+        2715,
+        2730
+      ],
+      [
+        2765,
+        2815
+      ]
+    ],
+    "foi_count_frames":1510,
+    "foi_count_seconds":50.333333333333336,
+    "foi_pct":0.5354609929078015,
+    "foi_sequences":[
+      [
+        5,
+        30
+      ],
+      [
+        125,
+        1280
+      ],
+      [
+        1770,
+        1830
+      ],
+      [
+        1875,
+        1905
+      ],
+      [
+        2525,
+        2575
+      ],
+      [
+        2610,
+        2800
+      ]
+    ],
+    "representative_frames":[
+      {
+        "captions":{
+          "en":[
+            "a large group of people walking across a street",
+            "a large group of people walking down a street ",
+            "The image shows a crowd of people walking on the street, with some wearing yellow vests"
+          ]
+        },
+        "counts":{
+          "person":7
+        },
+        "index":5,
+        "objects":[
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large group of people walking across a street",
+            "a large group of people walking down a street ",
+            "The image shows a crowd of people walking on the street, some wearing yellow shirts"
+          ]
+        },
+        "counts":{
+          "person":7
+        },
+        "index":30,
+        "objects":[
+          "flag",
+          "person",
+          "ramp",
+          "stairs",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large group of people walking across a street",
+            "a large building with a train on it ",
+            "The image shows a large group of people walking on the street, with some wearing yellow shirts"
+          ]
+        },
+        "counts":{
+          "person":6
+        },
+        "index":125,
+        "objects":[
+          "car",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large group of people walking across a street",
+            "a large building with a large crowd of people ",
+            "The image shows a large group of people walking in an open area with some buildings and green grass nearby"
+          ]
+        },
+        "counts":{
+          "person":6
+        },
+        "index":130,
+        "objects":[
+          "car",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people walking on a sidewalk near a building",
+            "a large body of water with a large amount of water ",
+            "The image shows a group of people gathered near some white pillars"
+          ]
+        },
+        "counts":{
+          "person":31
+        },
+        "index":310,
+        "objects":[
+          "car",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people walking around a soccer field",
+            "a man is walking across a beach with a bunch of water ",
+            "The image shows a large group of people gathered on the street"
+          ]
+        },
+        "counts":{
+          "person":2
+        },
+        "index":380,
+        "objects":[
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people riding bikes down a street",
+            "a street scene with a large group of people ",
+            "The image shows a large crowd of people walking on the street, with various individuals wearing yellow shirts"
+          ]
+        },
+        "counts":{
+          "person":1
+        },
+        "index":390,
+        "objects":[
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people standing around a fire hydrant",
+            "a large group of people standing around a fire hydrant ",
+            "The image shows a large group of people gathered in an outdoor area"
+          ]
+        },
+        "counts":{
+          "person":59
+        },
+        "index":930,
+        "objects":[
+          "flag",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people standing around a park with a river",
+            "a field full of people playing soccer ",
+            "The image shows a group of people gathered in an outdoor setting"
+          ]
+        },
+        "counts":{
+          "person":56
+        },
+        "index":1150,
+        "objects":[
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people walking on a street next to a building",
+            "a view from a distance of a beach with a man on a surfboard ",
+            "The image shows a group of people gathered in an outdoor area with flags and poles"
+          ]
+        },
+        "counts":{
+          "person":16
+        },
+        "index":1240,
+        "objects":[
+          "car",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large group of people walking on a street",
+            "a view from a distance of a beach with a sunset ",
+            "The image shows a group of people gathered in an open area"
+          ]
+        },
+        "counts":{
+          "person":15
+        },
+        "index":1280,
+        "objects":[
+          "car",
+          "person",
+          "ramp"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large group of people walking on a dirt road",
+            "a large white airplane is flying over a beach ",
+            "The image shows a crowded street with people walking and some standing"
+          ]
+        },
+        "counts":{
+          "person":20
+        },
+        "index":1770,
+        "objects":[
+          "car",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large group of people walking on a dirt road",
+            "a beach with a large body of water ",
+            "The image shows a crowd of people gathered in an outdoor area, some standing near poles and others scattered throughout the scene"
+          ]
+        },
+        "counts":{
+          "person":19
+        },
+        "index":1830,
+        "objects":[
+          "car",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large group of people walking on a dirt road",
+            "a beach scene with a lighthouse and a person walking on the beach ",
+            "The image shows a crowd of people gathered around"
+          ]
+        },
+        "counts":{
+          "person":18
+        },
+        "index":1875,
+        "objects":[
+          "car",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large group of people walking on a dirt road",
+            "a beach scene with a plane flying over it ",
+            "The image shows a large group of people gathered in an outdoor area"
+          ]
+        },
+        "counts":{
+          "person":21
+        },
+        "index":1905,
+        "objects":[
+          "car",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a crowd of people walking across a street in a city",
+            "a street scene with a lot of traffic ",
+            "The image shows a large group of people walking around in an open area with various objects like benches, boxes and poles"
+          ]
+        },
+        "counts":{
+          "person":18
+        },
+        "index":2525,
+        "objects":[
+          "person",
+          "ramp",
+          "stairs",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a crowd of people walking across a street in a city",
+            "a street scene with a lot of people walking around ",
+            "A large crowd of people is walking on a sidewalk in an urban setting, with some wearing yellow shirts"
+          ]
+        },
+        "counts":{
+          "person":19
+        },
+        "index":2530,
+        "objects":[
+          "person",
+          "ramp",
+          "stairs",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large crowd of people walking around a park",
+            "a city street with a lot of people walking around ",
+            "A large group of people gather in a parking lot, with some standing around and others walking"
+          ]
+        },
+        "counts":{
+          "person":18
+        },
+        "index":2575,
+        "objects":[
+          "car",
+          "person",
+          "ramp",
+          "sculpture"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large crowd of people walking across a street",
+            "a large group of people walking down a street ",
+            "A crowd of people is gathered in an outdoor area"
+          ]
+        },
+        "counts":{
+          "person":1
+        },
+        "index":2610,
+        "objects":[
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large crowd of people walking across a street",
+            "a large group of people walking around a park ",
+            "A large group of people is walking in a crowd, with some wearing yellow shirts and others dressed casually"
+          ]
+        },
+        "counts":{
+          "person":2
+        },
+        "index":2615,
+        "objects":[
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large crowd of people walking across a street",
+            "a large group of people walking around a city ",
+            "The image shows a crowded street with many people walking around"
+          ]
+        },
+        "counts":{
+          "person":1
+        },
+        "index":2700,
+        "objects":[
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large group of people walking down a street",
+            "a street scene with people walking and cars ",
+            "The image shows a large group of people participating in an outdoor event"
+          ]
+        },
+        "counts":{
+          "person":1
+        },
+        "index":2740,
+        "objects":[
+          "person"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people standing on a street corner",
+            "a large group of people walking on a street ",
+            "The image shows a large crowd of people gathered in an outdoor setting"
+          ]
+        },
+        "counts":{
+          "person":9
+        },
+        "index":2785,
+        "objects":[
+          "person",
+          "ramp",
+          "support column"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a large group of people walking across a street",
+            "a large group of people walking down a street ",
+            "The image shows a crowd of people gathered in an outdoor area, with some individuals walking and others standing"
+          ]
+        },
+        "counts":{
+          "person":6
+        },
+        "index":2800,
+        "objects":[
+          "flag",
+          "person",
+          "ramp",
+          "support column"
+        ]
+      }
+    ],
+    "representative_frames_count":24
+  },
+  "TEST_04.mp4":{
+    "name":"TEST_04.mp4",
+    "camera":"00-TESTS",
+    "length_frames":3600,
+    "length_seconds":120,
+    "fps":30,
+    "time_start":1673171579,
+    "time_end":1673174996,
+    "continuous":false,
+    "seek":[
+      [
+        1673171579,
+        0
+      ],
+      [
+        1673171664,
+        20
+      ],
+      [
+        1673168704,
+        33
+      ],
+      [
+        1673171681,
+        37
+      ],
+      [
+        1673168705,
+        67
+      ],
+      [
+        1673171713,
+        69
+      ],
+      [
+        1673174957,
+        80
+      ],
+      [
+        1673174979,
+        103
+      ],
+      [
+        1673174981,
+        104
+      ],
+      [
+        1673174994,
+        118
+      ],
+      [
+        1673174996,
+        119
+      ],
+      [
+        1673174997,
+        120
+      ]
+    ],
+    "camera_movement_sequences":[],
+    "foi_count_frames":0,
+    "foi_count_seconds":0.0,
+    "foi_pct":0.0,
+    "foi_sequences":[],
+    "representative_frames":[
+      {
+        "captions":{
+          "en":[
+            "a view of a parking garage from a window",
+            "a concrete wall with a concrete floor and a concrete floor ",
+            "The image shows an empty parking lot with a white tiled floor, some markings on the ground and manholes"
+          ]
+        },
+        "counts":{},
+        "index":5,
+        "objects":[
+          "ramp",
+          "support column"
+        ]
+      }
+    ],
+    "representative_frames_count":1
+  },
+  "TEST_05.mp4":{
+    "name":"TEST_05.mp4",
+    "camera":"00-TESTS",
+    "length_frames":4830,
+    "length_seconds":161,
+    "fps":30,
+    "time_start":1673200034,
+    "time_end":1673203395,
+    "continuous":false,
+    "seek":[
+      [
+        1673200034,
+        0
+      ],
+      [
+        1673202390,
+        30
+      ],
+      [
+        1673202393,
+        32
+      ],
+      [
+        1673202395,
+        35
+      ],
+      [
+        1673202398,
+        37
+      ],
+      [
+        1673202400,
+        40
+      ],
+      [
+        1673202403,
+        42
+      ],
+      [
+        1673202405,
+        45
+      ],
+      [
+        1673202408,
+        47
+      ],
+      [
+        1673202698,
+        50
+      ],
+      [
+        1673202738,
+        60
+      ],
+      [
+        1673202741,
+        62
+      ],
+      [
+        1673202743,
+        65
+      ],
+      [
+        1673202775,
+        67
+      ],
+      [
+        1673202799,
+        77
+      ],
+      [
+        1673202801,
+        80
+      ],
+      [
+        1673202827,
+        82
+      ],
+      [
+        1673202832,
+        88
+      ],
+      [
+        1673202835,
+        90
+      ],
+      [
+        1673202837,
+        93
+      ],
+      [
+        1673202840,
+        95
+      ],
+      [
+        1673202842,
+        98
+      ],
+      [
+        1673202845,
+        100
+      ],
+      [
+        1673202847,
+        103
+      ],
+      [
+        1673202850,
+        105
+      ],
+      [
+        1673202852,
+        108
+      ],
+      [
+        1673203053,
+        110
+      ],
+      [
+        1673203055,
+        113
+      ],
+      [
+        1673203058,
+        115
+      ],
+      [
+        1673203060,
+        118
+      ],
+      [
+        1673203063,
+        120
+      ],
+      [
+        1673203065,
+        123
+      ],
+      [
+        1673203360,
+        125
+      ],
+      [
+        1673203362,
+        128
+      ],
+      [
+        1673203365,
+        130
+      ],
+      [
+        1673203367,
+        133
+      ],
+      [
+        1673203370,
+        135
+      ],
+      [
+        1673203372,
+        138
+      ],
+      [
+        1673203375,
+        140
+      ],
+      [
+        1673203377,
+        143
+      ],
+      [
+        1673203380,
+        145
+      ],
+      [
+        1673203382,
+        148
+      ],
+      [
+        1673203385,
+        150
+      ],
+      [
+        1673203387,
+        153
+      ],
+      [
+        1673203390,
+        155
+      ],
+      [
+        1673203392,
+        158
+      ],
+      [
+        1673203395,
+        160
+      ],
+      [
+        1673203396,
+        161
+      ]
+    ],
+    "camera_movement_sequences":[],
+    "foi_count_frames":2655,
+    "foi_count_seconds":88.5,
+    "foi_pct":0.5496894409937888,
+    "foi_sequences":[
+      [
+        1875,
+        1905
+      ],
+      [
+        2010,
+        2310
+      ],
+      [
+        2500,
+        4825
+      ]
+    ],
+    "representative_frames":[
+      {
+        "captions":{
+          "en":[
+            "a wooden bench in a room with a mirror",
+            "a room with a wooden floor and a wooden chair ",
+            "The image shows a hallway with marble floors and wooden chairs"
+          ]
+        },
+        "counts":{},
+        "index":5,
+        "objects":[
+          "chair",
+          "door",
+          "mirror",
+          "support column",
+          "table",
+          "window"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a wooden bench in a room with a mirror",
+            "a room with a chair and a mirror ",
+            "The image shows a room with marble floors and walls, featuring furniture such as chairs"
+          ]
+        },
+        "counts":{
+          "person":5
+        },
+        "index":1875,
+        "objects":[
+          "chair",
+          "door",
+          "mirror",
+          "person",
+          "support column",
+          "table"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a wooden bench in a room with a mirror",
+            "a room with a chair and a table ",
+            "The image shows a room with marble floors and walls, featuring wooden chairs"
+          ]
+        },
+        "counts":{
+          "person":3
+        },
+        "index":1905,
+        "objects":[
+          "chair",
+          "door",
+          "mirror",
+          "person",
+          "support column",
+          "table"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a wooden chair sitting in a room with a mirror",
+            "a room with a chair and a table ",
+            "The image shows a room with marble floors and walls, featuring furniture such as chairs"
+          ]
+        },
+        "counts":{
+          "person":8
+        },
+        "index":2010,
+        "objects":[
+          "chair",
+          "door",
+          "mirror",
+          "person",
+          "support column",
+          "table"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a wooden bench sitting in a room next to a mirror",
+            "a room with a chair and a table ",
+            "The image shows a room with marble floors and wooden furniture, featuring an angled view of the space"
+          ]
+        },
+        "counts":{},
+        "index":2310,
+        "objects":[
+          "chair",
+          "door",
+          "mirror",
+          "support column",
+          "table"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a wooden bench in a room with a mirror",
+            "a small room with a wooden floor and a wooden chair ",
+            "The image shows a room with marble floors, wooden furniture and people walking around"
+          ]
+        },
+        "counts":{
+          "person":3
+        },
+        "index":2500,
+        "objects":[
+          "chair",
+          "door",
+          "mirror",
+          "person",
+          "support column",
+          "table"
+        ]
+      },
+      {
+        "captions":{
+          "en":[
+            "a group of people standing around a table in a room",
+            "a man in a red shirt standing in front of a door ",
+            "The image shows a group of people in various outfits gathered indoors"
+          ]
+        },
+        "counts":{
+          "person":18
+        },
+        "index":4825,
+        "objects":[
+          "chair",
+          "flag",
+          "mirror",
+          "painting",
+          "person",
+          "support column",
+          "table"
+        ]
+      }
+    ],
+    "representative_frames_count":7
+  }
+}
