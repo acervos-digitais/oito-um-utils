@@ -1,1 +1,1 @@
-[{"caption":{"en":"The image shows a large group of people in the street, likely participating or protesting"},"counts":{},"index":5,"objects":[]},{"caption":{"en":"The image shows a large crowd of people gathered at an outdoor event"},"counts":{},"index":2385,"objects":[]}]
+[{"caption":{"en":"The image shows a crowd of people in an open area"},"counts":{"person":1},"index":5,"objects":["person"]},{"caption":{"en":"The image shows a large crowd of people gathered at an outdoor event"},"counts":{"ramp":2},"index":2385,"objects":["ramp"]}]
