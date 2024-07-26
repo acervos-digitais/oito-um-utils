@@ -1,1 +1,1 @@
-{"camera_movement_sequences": [], "foi_count_frames": 50, "foi_count_seconds": 0.8333333333333334, "foi_pct": 0.0004624619625035841, "foi_sequences": [[100150, 100200]], "representative_frames": [100150, 100200], "representative_frames_count": 2, "static_frames": [100150], "static_frames_count": 1}
+{"camera_movement_sequences": [], "foi_count_frames": 40, "foi_count_seconds": 1.33333, "foi_pct": 0.00074, "foi_sequences": [[50080, 50120]], "representative_frames": [50080, 50120], "representative_frames_count": 2, "static_frames": [50080], "static_frames_count": 1}
